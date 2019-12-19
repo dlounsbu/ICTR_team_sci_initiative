@@ -1,45 +1,46 @@
+# Patient-Centered Outcomes Research Innovations at Montefiore and Einstein (PCOR-PRIME): Materials to support planning and conducting <i>Stakeholder Studios</i>
 
-Patient-Centered Outcomes Research Innovations at Montefiore and Einstein (PCOR-PRIME): Materials to support planning and conducting Stakeholder Studios
-Background
+<b>Background</b>
 
-An important aim of PCOR-PRIME (1R25HS023199-01) is to enhance the quality of clinical and translational research through engagement of diverse community and scientific stakeholders. Consistent with the construct of a learning health system, stakeholder-engaged research can support innovative scientific discovery and promote evidence-based practice transformation to optimize patient outcomes and experiences, improve population health, and reduce health care costs. Via Stakeholder Studios, purposefully targeted representatives of one or more stakeholder groups (patients, caregivers, providers, front-line staff, pharmacists, community members, policy-makers, health insurers, etc.) serve in a consultative role to help address challanges or issues in project design or implementation (Jooten et al., 2015).
+An important aim of PCOR-PRIME (1R25HS023199-01) is to enhance the quality of clinical and translational research through engagement of diverse community and scientific stakeholders. Consistent with the construct of a learning health system, stakeholder-engaged research can support innovative scientific discovery and promote evidence-based practice transformation to optimize patient outcomes and experiences, improve population health, and reduce health care costs. Via <i>Stakeholder Studios</i>, purposefully targeted representatives of one or more stakeholder groups (patients, caregivers, providers, front-line staff, pharmacists, community members, policy-makers, health insurers, etc.) serve in a consultative role to help address challanges or issues in project design or implementation (Jooten et al., 2015).
 
-Approach
+<b>Approach</b>
 
 Stakeholder studios are events organized on behalf of a project lead or principal investigator (PI), usually lasting approximately three hours, including time to cater a light meal and beverages for participants. Studios can be arranged in one of three formats, depending upon what would be most convenience for participants:
 
-Group Interview
-Drop-In
-World Cafe.
-All studios start off with a short presentation or sharing of information by the project lead or PI about proposed project or research aims, significance, design, and specific challenges or needs to be addressed. A neutral facilitator then guides a discussion intented to elicit authentic and constructive feedback from all participating stakeholder about ways to address the stated project challenges or needs. Careful selection of the most appropriate stakeholder groups is essential to the success of a given studio event, as is advance preparation and coaching to support the role of the project lead or PI and their participating stakeholders.
+1. Group Interview 
+2. Drop-In
+3. World Cafe. 
 
-Studio Roles and Responsibilities
+All studios start off with a short presentation or sharing of information by the project lead or PI about proposed project or research aims, significance, design, and specific challenges or needs to be addressed. A neutral facilitator then guides a discussion intented to elicit authentic and constructive feedback from all participating stakeholder about ways to address the stated project challenges or needs. Careful selection of the most appropriate stakeholder groups is essential to the success of a given studio event, as is advance preparation and coaching to support the role of the project lead or PI  and their participating stakeholders.
 
-Project Lead/Prinicipal Investigator. Presents a succinct slide set (Powerpoint) or other briefing materials to 'pitch' the planned project to participating stakeholders. Presentations or other briefing materials should take no longer than 10 minutes to share with participating stakeholders.
+<b>Studio Roles and Responsibilities</b>
 
-Navigator(s). Responsible for planning and conducting the pre-studio researcher meeting. A boundary spanner with experience working in the community and familiar with research.
+<i>Project Lead/Prinicipal Investigator</i>. Presents a succinct slide set (Powerpoint) or other briefing materials to 'pitch' the planned project to participating stakeholders. Presentations or other briefing materials should take no longer than 10 minutes to share with participating stakeholders.
 
-Facilitator. Leads a semi-structured, open discussion between the researcher and particiapting stakeholders.
+<i>Navigator(s)</i>. Responsible for planning and conducting the pre-studio researcher meeting. A boundary spanner with experience working in the community and familiar with research.
 
-Studio Advisory Council. Serves to provide on-going guidance and organizational support. Vets all studio requests and assists investigators in choosing and engaging targeted stakeholder groups for participation. Collectively, Council members have experience with patient-centered outcomes research, clinical practice improvement processes, community public relations, participatory action research, and program evaluation.
+<i>Facilitator</i>. Leads a semi-structured, open discussion between the researcher and particiapting stakeholders.
 
-Sample Questions for Assessing Project-Specific Needs
+<i>Studio Advisory Council</i>. Serves to provide on-going guidance and organizational support. Vets all studio requests and assists investigators in choosing and engaging targeted stakeholder groups for participation. Collectively, Council members have experience with patient-centered outcomes research, clinical practice improvement processes, community public relations, participatory action research, and program evaluation.
 
-What implementation challenges are anticipated (recruitment, retention, invasiveness)?
-What parts of the project are most arduous (consenting, activity)?
-Given stated project aims, are desired timelines and components feasible and acceptable to stakeholders?
-How is this project important and valuable to stakeholders?
-Potential Benefits of Stakeholder Studios
+<b>Sample Questions for Assessing Project-Specific Needs</b>
 
-For Project Teams. Increases their understanding of stakeholders’ perspectives; Creates awareness of and insight into stakeholders’ priorities and needs.
+1.	What implementation challenges are anticipated (recruitment, retention, invasiveness)?
+2.	What parts of the project are most arduous (consenting, activity)?
+3.	Given stated project aims, are desired timelines and components feasible and acceptable to stakeholders?
+4.	How is this project important and valuable to stakeholders?
 
-For Patient, Caregivers and Other Stakeholders. Increases understanding of project aims; builds partnerships with targeted stakeholder communities; clarifies key assumptions and values of the project lead or PI.
+<b>Potential Benefits of Stakeholder Studios</b>
 
-Stakeholder Studio Literature and Fidelity Checklist
+<i>For Project Teams</i>. Increases their understanding of stakeholders’ perspectives; Creates awareness of and insight into stakeholders’ priorities and needs.
 
-Click on the green Clone or download button, above. Select Download ZIP to transfer a compressed copy of all materials to your device/workstation, then open the transferred file to unZIP all folders and files.
+<i>For Patient, Caregivers and Other Stakeholders</i>. Increases understanding of project aims; builds partnerships with targeted stakeholder communities; clarifies key assumptions and values of the project lead or PI.
+
+<b>Stakeholder Studio Literature and Fidelity Checklist</b> 
+
+Click on the green <b>Clone or download</b> button, above. Select <b>Download ZIP</b> to transfer a compressed copy of all materials to your device/workstation, then open the transferred file to unZIP all folders and files. 
 
 See Fidelity Chekclist here: https://github.com/dlounsbu/PRIME_studios/blob/master/SE_studio_fidel_checklist.md
 
 Starting a new Studio project: https://github.com/dlounsbu/PRIME_studios/blob/master/studio_github_guide.md
-https://github.com/dlounsbu/PRIME_studios
