@@ -1,8 +1,8 @@
-# Patient-Centered Outcomes Research Innovations at Montefiore and Einstein (PCOR-PRIME): Materials to support planning and conducting <i>Stakeholder Studios</i>
+# Institute for Clinical and Translational Research (ICTR) at Einstein/Montefiore Medical Center: Materials to support planning and conducting <i>Stakeholder Studios</i>
 
 <b>Background</b>
 
-An important aim of PCOR-PRIME (1R25HS023199-01) is to enhance the quality of clinical and translational research through engagement of diverse community and scientific stakeholders. Consistent with the construct of a learning health system, stakeholder-engaged research can support innovative scientific discovery and promote evidence-based practice transformation to optimize patient outcomes and experiences, improve population health, and reduce health care costs. Via <i>Stakeholder Studios</i>, purposefully targeted representatives of one or more stakeholder groups (patients, caregivers, providers, front-line staff, pharmacists, community members, policy-makers, health insurers, etc.) serve in a consultative role to help address challanges or issues in project design or implementation (Jooten et al., 2015).
+An important aim of ICTR (grant number) is to enhance the quality of clinical and translational research through engagement of diverse community and scientific stakeholders. Consistent with the construct of a learning health system, stakeholder-engaged research can support innovative scientific discovery and promote evidence-based practice transformation to optimize patient outcomes and experiences, improve population health, and reduce health care costs. Via <i>Stakeholder Studios</i>, purposefully targeted representatives of one or more stakeholder groups (patients, caregivers, providers, front-line staff, pharmacists, community members, policy-makers, health insurers, etc.) serve in a consultative role to help address challanges or issues in project design or implementation (Jooten et al., 2015).
 
 <b>Approach</b>
 
