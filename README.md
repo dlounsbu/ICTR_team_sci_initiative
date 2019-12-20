@@ -41,6 +41,4 @@ All studios start off with a short presentation or sharing of information by the
 
 Click on the green <b>Clone or download</b> button, above. Select <b>Download ZIP</b> to transfer a compressed copy of all materials to your device/workstation, then open the transferred file to unZIP all folders and files. 
 
-See Fidelity Chekclist here: https://github.com/dlounsbu/PRIME_studios/blob/master/SE_studio_fidel_checklist.md
-
-Starting a new Studio project: https://github.com/dlounsbu/PRIME_studios/blob/master/studio_github_guide.md
+https://github.com/dlounsbu/ICTR_team_sci_initiative/tree/master/SE_fidelity_checklist
