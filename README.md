@@ -45,10 +45,10 @@ See Fidelity Checklist: https://github.com/dlounsbu/ICTR_team_sci_initiative/tre
 
 <b>To get started, please conact:</b>
 
-David W. Lounsbury, PhD<cr>
-Assistant Professor, Epidemiology & Population Health
-Associate Director, Patient-Centered Outcomes Research Training
-Division of Health Behavior Research and Implementation Science
-Albert Einstein College of Medicine
-David.Lounsbury@einsteinmed.org
-718.839.7452
+David W. Lounsbury, PhD</br>
+Assistant Professor, Epidemiology & Population Health</br>
+Associate Director, Patient-Centered Outcomes Research Training</br>
+Division of Health Behavior Research and Implementation Science</br>
+Albert Einstein College of Medicine</br>
+David.Lounsbury@einsteinmed.org</br>
+718.839.7452</br>
