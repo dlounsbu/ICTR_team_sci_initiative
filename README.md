@@ -43,7 +43,7 @@ Click on the green <b>Clone or download</b> button, above. Select <b>Download ZI
 
 See Fidelity Checklist: https://github.com/dlounsbu/ICTR_team_sci_initiative/tree/master/SE_fidelity_checklist
 
-<b>To get started, please conact:</b>
+<b>To get started, please contact:</b>
 
 David W. Lounsbury, PhD</br>
 Assistant Professor, Epidemiology & Population Health</br>
