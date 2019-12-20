@@ -42,3 +42,13 @@ All studios start off with a short presentation or sharing of information by the
 Click on the green <b>Clone or download</b> button, above. Select <b>Download ZIP</b> to transfer a compressed copy of all materials to your device/workstation, then open the transferred file to unZIP all folders and files. 
 
 See Fidelity Checklist: https://github.com/dlounsbu/ICTR_team_sci_initiative/tree/master/SE_fidelity_checklist
+
+<b>To get started, please conact:</b>
+
+David W. Lounsbury, PhD
+Assistant Professor, Epidemiology & Population Health
+Associate Director, Patient-Centered Outcomes Research Training
+Division of Health Behavior Research and Implementation Science
+Albert Einstein College of Medicine
+David.Lounsbury@einsteinmed.org
+718.839.7452
