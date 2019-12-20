@@ -22,7 +22,7 @@ All studios start off with a short presentation or sharing of information by the
 
 <i>Facilitator</i>. Leads a semi-structured, open discussion between the researcher and particiapting stakeholders.
 
-<i>Studio Advisory Council</i>. Serves to provide on-going guidance and organizational support. Vets all studio requests and assists investigators in choosing and engaging targeted stakeholder groups for participation. Collectively, Council members have experience with patient-centered outcomes research, clinical practice improvement processes, community public relations, participatory action research, and program evaluation.
+<i>Studio Advisor(s)</i>. Has(have) experience with patient-centered outcomes research, clinical practice improvement processes, community public relations, participatory action research, and program evaluation. Serves to provide guidance and organizational support to project lead/PI. Vets all studio requests and assists investigators in choosing and engaging targeted stakeholder groups for participation. Ensures that information obtained during a studio event is collected and reported in an ethical and timely manner. Fosters trusting, respective rapport with all participating stakeholders.  
 
 <b>Sample Questions for Assessing Project-Specific Needs</b>
 
