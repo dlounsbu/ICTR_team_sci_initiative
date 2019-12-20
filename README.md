@@ -45,7 +45,7 @@ See Fidelity Checklist: https://github.com/dlounsbu/ICTR_team_sci_initiative/tre
 
 <b>To get started, please conact:</b>
 
-David W. Lounsbury, PhD
+David W. Lounsbury, PhD<cr>
 Assistant Professor, Epidemiology & Population Health
 Associate Director, Patient-Centered Outcomes Research Training
 Division of Health Behavior Research and Implementation Science
