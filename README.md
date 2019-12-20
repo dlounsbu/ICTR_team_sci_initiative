@@ -41,4 +41,4 @@ All studios start off with a short presentation or sharing of information by the
 
 Click on the green <b>Clone or download</b> button, above. Select <b>Download ZIP</b> to transfer a compressed copy of all materials to your device/workstation, then open the transferred file to unZIP all folders and files. 
 
-https://github.com/dlounsbu/ICTR_team_sci_initiative/tree/master/SE_fidelity_checklist
+See Fidelity Checklist: https://github.com/dlounsbu/ICTR_team_sci_initiative/tree/master/SE_fidelity_checklist
