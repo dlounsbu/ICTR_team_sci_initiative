@@ -43,6 +43,8 @@ Click on the green <b>Clone or download</b> button, above. Select <b>Download ZI
 
 See Fidelity Checklist: https://github.com/dlounsbu/ICTR_team_sci_initiative/tree/master/SE_fidelity_checklist
 
+If you are a current studio collaborator, you can asscess your GitHub project here: https://github.com/dlounsbu/PRIME_studios
+
 <b>To get started, please contact:</b>
 
 David W. Lounsbury, PhD</br>
