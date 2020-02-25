@@ -10,7 +10,7 @@ Stakeholder studios are events organized on behalf of a project lead or principa
 
 1. <i>Focus Group Interview</i>: A single meeting for up 10-12 participants conducted jointly by the project lead and a neutral co-facilitator;   
 2. <i>Drop-In Deliberative Chat Session</i>: An effective way to engage busy staff (physcians, nurses, front line staff) who are located in a given place (clinic, office), or
-3. World Cafe™: Ideal for engaging large numbers of stakeholders all at once in a series of short, facilitated discussions at multiple stations or tables, where participants record (write, draw, doodle) their thoughts, attitudes and/or feelings about themes related to the shared topic of interest. 
+3. <i>World Cafe™</i>: Ideal for engaging large numbers of stakeholders all at once in a series of short, facilitated discussions at multiple stations or tables, where participants record (write, draw, doodle) their thoughts, attitudes and/or feelings about themes related to the shared topic of interest. 
 
 All studios start off with a short presentation or sharing of information by the project lead or PI about proposed project or research aims, significance, design, and specific challenges or needs to be addressed. A neutral facilitator then guides a discussion intented to elicit authentic and constructive feedback from all participating stakeholder about ways to address the stated project challenges or needs. Careful selection of the most appropriate stakeholder groups is essential to the success of a given studio event, as is advance preparation and coaching to support the role of the project lead or PI  and their participating stakeholders.
 
