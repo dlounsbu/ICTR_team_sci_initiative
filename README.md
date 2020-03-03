@@ -43,6 +43,8 @@ Click on the green <b>Clone or download</b> button, above. Select <b>Download ZI
 
 See Fidelity Checklist: https://github.com/dlounsbu/ICTR_team_sci_initiative/tree/master/SE_fidelity_checklist
 
+See CTSA Common Metrics repository: https://github.com/ncats/CTSA-Metrics
+
 If you are a current studio collaborator, you can access your GitHub studio project here: https://github.com/dlounsbu/PRIME_studios
 
 <b>To get started, please contact:</b>
