@@ -50,7 +50,7 @@ If you are a current studio collaborator, you can access your GitHub studio proj
 <b>To get started, please contact:</b>
 
 David W. Lounsbury, PhD</br>
-Assistant Professor, Epidemiology & Population Health</br>
+Associate Professor, Epidemiology & Population Health</br>
 Associate Director, Patient-Centered Outcomes Research Training</br>
 Division of Health Behavior Research and Implementation Science</br>
 Albert Einstein College of Medicine</br>
