@@ -6,21 +6,21 @@ An important aim of ICTR (KL2 TR002558; TL1 TR002557; UL1 TR002556) is to enhanc
 
 <b>Approach</b>
 
-<i>Stakeholder Studios</i> are events organized on behalf of a project lead or principal investigator (PI). Studios can be held face-to-face or virtually. Face-to-Face events usually lasting approximately three hours, including time to cater a light meal and beverages for participants. Virtual events, via video conferenceing platforms such as <i>Zoom</i> https://zoom.us/ and <i>Miro</i> https://miro.com/online-whiteboard/, are shorter and use quick <i>icebreakers</i> to engage participants. Studios can be arranged in one of three formats, depending upon what would be most convenience for participants:
+<i>Stakeholder Studios</i> are events organized on behalf of a project lead or principal investigator (PI). Studios can be held face-to-face or virtually. Face-to-Face events usually lasting approximately three hours, including time to cater a light meal and beverages for participants. Virtual events, via video conferencing platforms such as <i>Zoom</i> https://zoom.us/ and <i>Miro</i> https://miro.com/online-whiteboard/, are shorter and use quick <i>icebreakers</i> to engage participants. Studios can be arranged in one of three formats, depending upon what would be most convenience for participants:
 
 1. <i>Focus Group Interview</i>: A single meeting for up 10-12 participants conducted jointly by the project lead and a neutral co-facilitator;   
-2. <i>Drop-In Deliberative Chat Session</i>: An effective way to engage busy staff (physcians, nurses, front line staff) who are located in a given place (clinic, office), or
+2. <i>Drop-In Deliberative Chat Session</i>: An effective way to engage busy staff (physicians, nurses, front line staff) who are located in a given place (clinic, office), or
 3. <i>World Cafe™</i>: Ideal for engaging large numbers of stakeholders all at once in a series of short, facilitated discussions at multiple stations or tables, where participants record (write, draw, doodle) their thoughts, attitudes and/or feelings about themes related to the shared topic of interest. 
 
-All studios start off with a short presentation or sharing of information by the project lead or PI about proposed project or research aims, significance, design, and specific challenges or needs to be addressed. A neutral facilitator then guides a discussion intented to elicit authentic and constructive feedback from all participating stakeholder about ways to address the stated project challenges or needs. Careful selection of the most appropriate stakeholder groups is essential to the success of a given studio event, as is advance preparation and coaching to support the role of the project lead or PI  and their participating stakeholders.
+All studios start off with a short presentation or sharing of information by the project lead or PI about proposed project or research aims, significance, design, and specific challenges or needs to be addressed. A neutral facilitator then guides a discussion intended to elicit authentic and constructive feedback from all participating stakeholder about ways to address the stated project challenges or needs. Careful selection of the most appropriate stakeholder groups is essential to the success of a given studio event, as is advance preparation and coaching to support the role of the project lead or PI  and their participating stakeholders.
 
 <b>Studio Roles and Responsibilities</b>
 
-<i>Project Lead/Prinicipal Investigator</i>. Presents a succinct slide set (Powerpoint) or other briefing materials to 'pitch' the planned project to participating stakeholders. Presentations or other briefing materials should take no longer than 10 minutes to share with participating stakeholders.
+<i>Project Lead/Principal Investigator</i>. Presents a succinct slide set (Powerpoint) or other briefing materials to 'pitch' the planned project to participating stakeholders. Presentations or other briefing materials should take no longer than 10 minutes to share with participating stakeholders.
 
 <i>Navigator(s)</i>. Responsible for planning and conducting the pre-studio researcher meeting. A boundary spanner with experience working in the community and familiar with research.
 
-<i>Facilitator</i>. Leads a semi-structured, open discussion between the researcher and particiapting stakeholders.
+<i>Facilitator</i>. Leads a semi-structured, open discussion between the researcher and participating stakeholders.
 
 <i>Studio Advisor(s)</i>. Has(have) experience with patient-centered outcomes research, clinical practice improvement processes, community public relations, participatory action research, and program evaluation. Serves to provide guidance and organizational support to project lead/PI. Vets all studio requests and assists investigators in choosing and engaging targeted stakeholder groups for participation. Ensures that information obtained during a studio event is collected and reported in an ethical and timely manner. Fosters trusting, respective rapport with all participating stakeholders.  
 
