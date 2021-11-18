@@ -8,7 +8,7 @@ An important aim of ICTR (KL2 TR002558; TL1 TR002557; UL1 TR002556) is to enhanc
 
 <i>Stakeholder Studios</i> are events organized on behalf of a project lead or principal investigator (PI). Studios can be held face-to-face or virtually. Face-to-Face events usually lasting approximately three hours, including time to cater a light meal and beverages for participants. Virtual events, via video conferencing platforms such as <i>Zoom</i> https://zoom.us/ and <i>Miro</i> https://miro.com/online-whiteboard/, are shorter and use quick <i>icebreakers</i> to engage participants. Studios can be arranged in one of three formats, depending upon what would be most convenience for participants:
 
-1. <i>Focus Group Interview</i>: A single meeting for up 10-12 participants conducted jointly by the project lead and a neutral co-facilitator;   
+1. <i>Focus Group Interview</i>: A single meeting for up 10-12 participants conducted jointly by the project lead and a neutral co-facilitator,   
 2. <i>Drop-In Deliberative Chat Session</i>: An effective way to engage busy staff (physicians, nurses, front line staff) who are located in a given place (clinic, office), or
 3. <i>World Cafe™</i>: Ideal for engaging large numbers of stakeholders all at once in a series of short, facilitated discussions at multiple stations or tables, where participants record (write, draw, doodle) their thoughts, attitudes and/or feelings about themes related to the shared topic of interest. 
 
