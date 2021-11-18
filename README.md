@@ -18,7 +18,7 @@ All studios start off with a short presentation or sharing of information by the
 
 <i>Project Lead/Principal Investigator</i>. Presents a succinct slide set (Powerpoint) or other briefing materials to 'pitch' the planned project to participating stakeholders. Presentations or other briefing materials should take no longer than 10 minutes to share with participating stakeholders.
 
-<i>Navigator(s)</i>. Responsible for planning and conducting the pre-studio researcher meeting. A boundary spanner with experience working in the community and familiar with research.
+<i>Navigator(s)</i>. Coordinates outreach and engagement of studio participants. A 'boundary spanner' with experience working in the community and familiar with research.
 
 <i>Facilitator</i>. Leads a semi-structured, open discussion between the researcher and participating stakeholders.
 
