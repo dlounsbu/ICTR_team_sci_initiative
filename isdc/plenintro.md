@@ -1,6 +1,6 @@
 My name is David Lounsbury, and it is my privilege and my pleasure to Chair our opening plenary session for the Health Thread, “Disrupting the Status Quo: Revolutionizing Population Health in the Face of Change.” 
 
-I am Associate Professor of Epidemiology and Population Health <b>and</b> Associate Director of Patient-Centered Outcomes Research Training at the Albert Einstein College of Medicine. 
+I am an Associate Professor of Epidemiology and Population Health <b>and</b> Associate Director of Patient-Centered Outcomes Research Training at the Albert Einstein College of Medicine. 
 
 Einstein is located in the Bronx, which typically ranks as the New York City borough with the highest rates of poverty, morbidity, and violence. And as the shock of the COVID pandemic illustrated so painfully in 2020, our research in health systems must stay centered on the challenge of designing and sustaining a <b>truly socially responsible, responsive, high quality health care system,</b> and <b>to do so in solidarity with the vibrant, diverse, complex communities</b> that are the patient populations we serve.
 
