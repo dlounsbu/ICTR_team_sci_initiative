@@ -2,7 +2,7 @@ My name is David Lounsbury, and it is my privilege and my pleasure to Chair our 
 
 I am an Associate Professor of Epidemiology and Population Health and Associate Director of Patient-Centered Outcomes Research Training at the Albert Einstein College of Medicine. 
 
-Einstein is located in the Bronx, which typically ranks as the NYC borough with the highest rates of poverty, morbidity, and violence. And as the shock of the COVID pandemic demonstrated in a most painful way, our biggest scientific challenge is – as it has been – to design and sustain a truly socially responsible, responsive, high quality health care system, and to do so in solidarity with the vibrant, diverse, complex communities that are patient populations we serve.
+Einstein is located in the Bronx, which typically ranks as the NYC borough with the highest rates of poverty, morbidity, and violence. And as the shock of the COVID pandemic illustrated so painfully in 2020, our research in health systems must stay centered on the challenge of designing and sustaining a truly socially responsible, responsive, high quality health care system, and to do so in solidarity with the vibrant, diverse, complex communities that are patient populations we serve.
 
 The formidable body of work that each of our plenary speakers is about to describe for us today – each through a different, yet complimentary lens – offer strategies that system dynamics to meet this challenge.
 
