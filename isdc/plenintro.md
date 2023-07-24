@@ -28,6 +28,8 @@ Bobby is currently a Visiting Scientist at the MIT Sloan School of Management. H
 
 The title of his presentation is: <b>What Does it Take to be Good Stewards of the Systems that Shape Our Lives Together?</b>
 
+Q: How might the Society partner with you to help meet the demand to train and deploy community leaders? 
+
 <b>Next we have Dr. David Matchar.</b>
 
 Dr. Matchar, is the Inaugural Director of the <b>Program in Health Services and Systems Research at National Singapore University.</b> He is also Professor of Medicine at Duke University in the United States. He is a leading economic and policy analyst to the Singapore Clinical Genomics Program and he is consultant to the Ministry of Health National Initiative for Healthcare Transformation.
@@ -37,6 +39,8 @@ He has worked in clinical research for over 35 years; his work primarily relates
 He served as Director of the Duke Center for Clinical Health Policy Research and he established the Duke Evidence-based Practice Center, which was responsible for analyses that informed policies of the US Centers for Medicare and Medicaid Services and that supported guidelines for various medical professional societies.
 
 The title of Dr. Matchar’s presentation is: <b>Systems Modeling to Support National Healthcare Systems Change: Experience in Singapore</b>
+
+Q: How is this work generalizable to other populations, other countries? 
 
 <b>Our last presentation today will be given by Douglas McKelvie and Eric Wolstenholme, who is joining us on-line.</b> 
 
@@ -52,3 +56,4 @@ He was a founding member of the System Dynamics Society, its fourth President an
 
 And their talk is entitled: <b>Tackling Multi-Sector Problems with System Dynamics: Exploring Whole Systems Solutions to Support Health and Social Care</b>
 
+Q: Are any of the archetypes described by Eric actually in the model described by Douglas?
