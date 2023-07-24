@@ -52,6 +52,13 @@ Douglas is a past President of both the UK Chapter and the Health Policy SIG of 
 
 He worked in Operational Research for British Coal and was Head of the first System Dynamics Research Group in the UK at Bradford University Business School. He subsequently held full Professorial posts at Stirling, Leeds Beckett and London South Bank Universities in Management Science and Business Learning as well as helping to establish and direct two management consultancies in System Dynamics - <b>Cognitus and Symmetric.</b> 
 
+
+END WITH:
+
+Attendees are invited to stay in the room and take part in the networking session coming up next if there are no other meetings they'd like to attend. Virtual attendees are also welcome to join by accessing the next session's zoom link.
+
+
+
 He was a founding member of the System Dynamics Society, its fourth President and the Founding Editor of the System Dynamics Review. He has written three books and a wide range of peer-reviewed research articles in System Dynamics. In 2004 received the Jay Wright Forrester Award for his work on generic systems archetypes.
 
 And their talk is entitled: <b>Tackling Multi-Sector Problems with System Dynamics: Exploring Whole Systems Solutions to Support Health and Social Care</b>
