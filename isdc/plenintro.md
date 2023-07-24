@@ -4,7 +4,7 @@ I am an Associate Professor of Epidemiology and Population Health <b>and</b> Ass
 
 Einstein is located in the Bronx, which typically ranks as the New York City borough with the highest rates of poverty, morbidity, and violence. And as the shock of the COVID pandemic illustrated so painfully in 2020, our research in health systems must stay centered on the challenge of designing and sustaining a <b>truly socially responsible, responsive, high quality health care system,</b> and <b>to do so in solidarity with the vibrant, diverse, complex communities</b> that are the patient populations we serve.
 
-The formidable body of work that each of our plenary speakers is about to describe for us today – each through a different, yet complimentary lens – offer strategies that system dynamics to meet this challenge.
+The formidable body of work that each of our plenary speakers is about to describe for us today – each through a different, yet complimentary lens – offer strategies that use system dynamics to meet this challenge.
 
 As a community-psychologist and a psycho-oncologist with expertise in system dynamics modeling, I understand the limitations of reductionist research approaches in clinical and population health research. 
 
