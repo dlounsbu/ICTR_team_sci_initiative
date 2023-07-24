@@ -14,7 +14,7 @@ We need ecologically-grounded data science methodologies for synthesizing the ts
 
 Next, with a focus on building and sustaining high performing health systems at the national level, Dr. David Matchar will describe his work for Singapore, where he has built a program of research using systems dynamics to examine ways to improve population health, enhance patient experience, and to reduce per capita costs of care (the so-called ‘triple aim’), to which he and his associates have added a fourth aim which he brands ‘good provider life.’ 
 
-Finally, we will hear from Douglas Mc McKelvie and Eric Wolstenholme. They have applied systems archetypes to inform models that for the UK health system that demonstrate the necessity of integrating social care with hospital care. Their approach is transdisciplinary, team-based, and collaborative, and employs mixed methods research designs, that are robustly systems-oriented and multi-leveled. 
+Finally, we will hear from Douglas Mc McKelvie and Eric Wolstenholme. They have applied systems archetypes to inform models for the UK health system that demonstrate the necessity of integrating social care with hospital care. Their approach is transdisciplinary, team-based, and collaborative, and employs mixed methods research designs, that are robustly systems-oriented and multi-leveled. 
 
 <b>So, now, allow me to specifically introduce our first speaker</b>.
 
