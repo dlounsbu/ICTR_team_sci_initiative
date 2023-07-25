@@ -14,7 +14,7 @@ We are going to start with our winner paper, and then, in addition, there are th
 
 So, on behalf of the Health Policy Special Interest Group of the System Dynamics Society, the 2023 Best Health System Dynamics Paper by an Early Career Researcher goes to: 
 
-Samuel Allen at <b>WPI</b> and <b>Andrada Tomoaia-Cotishello f the Rand Corporation</b> for their paper:
+Samuel Allen at <b>WPI</b> and <b>Andrada Tomoaia-Cotishel of the Rand Corporation</b> for their paper:
 
 <b>Implementing and Sustaining Healthcare Quality Improvement: A Case Study Examining Feedback Structure and Dynamic</b>
 
