@@ -1,3 +1,31 @@
+BEST HEALTH SD PAPER BY AN EARLY CAREER RESEARCHER AWARD ANNOUNCEMENT
+
+Greetings to all. My name is David Lounsbury and I am the Committee Coordinator for the 2023 Best Health System Dynamics Paper by an Early Career Researcher. 
+This award is organized by the Health Policy Special Interest Group of the System Dynamics Society. 
+
+To be eligible, the applicants must either be currently matriculated in a graduate research program, or have completed their graduate or post-graduate research training within the last years. Eligible papers must also first be accepted for oral presentation at the conference. 
+
+I want to thank this year’s committee members for their expert review of submitted papers. John, Gary and Nasim helped me make some difficult choices, as there were a number of compelling submissions. 
+
+We are going to start with our winner paper, and then, in addition, there are three papers that we are worthy of honorable mention.
+
+So, on behalf of the Health Policy Special Interest Group of the System Dynamics Society, the 2023 Best Health System Dynamics Paper by an Early Career Researcher goes to: 
+
+Samuel Allen at <b>WPI</b> and <b>Andrada Tom-o-a-ia-Cotishello f the Rand Corporation</b> for their paper:
+
+<b>Implementing and Sustaining Healthcare Quality Improvement: A Case Study Examining Feedback Structure and Dynamic</b>
+
+Sam and Andrada report on a case study of a quality improvement process for a Neonatal Intensive Care Unit, where they conducted a robust, stakeholder-engaged mixed method program evaluation project that applied qualitative modeling and simulation analyses to help frontline providers implement and sustain effective QI strategies. 
+
+Congratulations to you both!
+
+And, now, the first honorable mention goes to –
+
+
+
+
+
+
 My name is David Lounsbury, and it is my privilege and my pleasure to Chair our opening plenary session for the Health Thread, “Disrupting the Status Quo: Revolutionizing Population Health in the Face of Change.” 
 
 I am an Associate Professor of Epidemiology and Population Health <b>and</b> Associate Director of Patient-Centered Outcomes Research Training at the Albert Einstein College of Medicine. 
