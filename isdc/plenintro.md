@@ -1,6 +1,6 @@
 BEST HEALTH SD PAPER BY AN EARLY CAREER RESEARCHER AWARD ANNOUNCEMENT
 
-Greetings to all. My name is David Lounsbury and I am the Committee Coordinator for the 2023 Best Health System Dynamics Paper by an Early Career Researcher. 
+Greetings to all. My name is David Lounsbury and I am the Committee Coordinator for the <b>2023 Best Health System Dynamics Paper by an Early Career Researcher.</b> 
 
 This award is organized by the Health Policy Special Interest Group of the System Dynamics Society. 
 
