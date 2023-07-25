@@ -6,7 +6,9 @@ This award is organized by the Health Policy Special Interest Group of the Syste
 
 To be eligible, the applicants must either be <b>currently matriculated</b> in a graduate research program, or have completed their graduate or post-graduate research training within the last 5 years. Eligible papers must also first be accepted for oral presentation at the conference. 
 
-I want to thank this year’s committee members for their expert review of submitted papers. John, Gary and Nasim helped me make some difficult choices, as there were a number of compelling submissions. 
+I want to thank this year’s committee members for their expert review of submitted papers. 
+
+John, Gary and Nasim helped me make some difficult choices, as there were a number of compelling submissions. 
 
 We are going to start with our winner paper, and then, in addition, there are three papers that we are worthy of honorable mention.
 
