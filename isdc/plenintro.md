@@ -20,7 +20,7 @@ Samuel Allen at <b>WPI</b> and <b>Andrada Tomoaia-Cotishel of the Rand Corporati
 
 Sam and Andrada report on a case study of a quality improvement process for a Neonatal Intensive Care Unit, where they conducted a robust, stakeholder-engaged mixed method program evaluation project that applied qualitative modeling and simulation analyses to help frontline providers implement and sustain effective QI strategies. 
 
-Congratulations to you both!
+Congratulations to you both and to your mentors!
 
 And, now, the first honorable mention goes to –
 
