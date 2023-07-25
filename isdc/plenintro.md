@@ -24,6 +24,33 @@ Congratulations to you both!
 
 And, now, the first honorable mention goes to –
 
+2023 Honorable Mention
+Best Health System Dynamics Paper by an Early Career Researcher 
+Estimates of the Reproduction Number for Seasonal Influenza Infectious Disease in the European Region from 2012 to 2016
+Nabeela Mumtaz1
+Jim Duggan, PhD1 (mentor)
+
+1National University of Ireland Galway, Ireland
+
+ 
+2023 Honorable Mention
+Best Health System Dynamics Paper by an Early Career Researcher 
+Data-informed Parameter Estimation in Behavioral Epidemic Models
+Ann Osi, PhD Candidate1
+Navid Ghaffarzadegan, PhD, MBA1 (mentor) 
+
+1Virginia Tech, Blacksburg, VA USA
+ 
+2023 Honorable Mention
+Best Health System Dynamics Paper by an Early Career Researcher 
+Health-related Quality of Life of Patients Receiving Immunotherapy: Modeling Analysis (Q-PRIMA Study)
+Zeynep Hasgul, MS1
+Sumreen Javed, PharmD, PhD1
+Ali Akhavan, PhD, MBA1,2
+Mohammad Jalali, PhD1
+
+1Harvard Medical School, Cambridge, MA USA
+2USI Università della Svizzera italiana, Lugano, Switzerland
 
 
 
