@@ -4,7 +4,7 @@ Thank you for the opportunity to talk about the NY HEALing Communities Study, wh
 
 Nasim and I are both co-investigators on this project, which is now in its fifth year of activity. 
 
-We are leading a small team of embedded team of researchers who comprise a must larger team of investigators (more than 30, actually) who are conducting the study in NY State. 
+We are leading a small team of embedded team of researchers who comprise a MUCH larger team of investigators (more than 30, actually) who are conducting the study in NY State. 
 
 <b>WHAT ARE THE GOALS OF THE HEALing COMM STUDY?</b>
 
