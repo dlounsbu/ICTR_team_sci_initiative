@@ -19,8 +19,15 @@ The design should demonstrate how other states can stand up strategies that exte
 
 Here we are featuring simulated results for two of our 16 NY communities. 
 
+<b>BOX AND WHISKERS</b>
 
+There is significant variability across the counties as seen in the box and whiskers.
 
+The box-and-whiskers show the distribution of overdose fatality rates by year (per 10,000 population) for all counties. 
+
+In these plots, the center line shows the median (50th percentile) annual overdose fatality rate, the ends of the boxes show the 25th and 75th percentiles.
+
+The dots are outliers in each given year (counties exceeding far above other counties in terms of future trends).
 
 
 
