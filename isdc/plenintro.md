@@ -1,3 +1,46 @@
+<b>INTRO</b>
+
+Thank you for the opportunity to talk about the NY HEALing Communities Study, which we are also offering as robust example of how system dynamic modeling can be used as in implementation research strategy. 
+
+Nasim and I are both co-investigators on this project, which is now in its fifth year of activity. 
+
+We are leading a small team of embedded team of researchers who comprise a must larger team of investigators (more than 30, actually) who are conducting the study in NY State. 
+
+<b>WHAT ARE THE GOALS OF THE HEALing COMM STUDY?</b>
+
+The HEALing Comm Study is a large IR research study that is COORDINATED and CONDUCTED by 4 selected sites, or States: KY, OH, MA and NY. 
+Design of the study calls for each site to randomly assign a purposefully selected a sample of N=16 counties, which are referred to as communities, one of two clusters, or waves (Wave 1 or Wave 2). 
+
+So we have a cluster randomized design organized a round two Waves of exposure to the Comm Engagement intervention, N = 32 communities assigned to each Wave, for a total of N = 64 engaged communities. 
+
+The design should demonstrate how other states can stand up strategies that extend reach to EBP to reduce opioid overdose fatalities. 
+
+<b>BROOME and CHATAUQUA</b>
+
+Here we are featuring simulated results for two of our 16 NY communities. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 BEST HEALTH SD PAPER BY AN EARLY CAREER RESEARCHER AWARD ANNOUNCEMENT
 
 Greetings to all. My name is David Lounsbury and I am the Committee Coordinator for the <b>2023 Best Health System Dynamics Paper by an Early Career Researcher.</b> 
