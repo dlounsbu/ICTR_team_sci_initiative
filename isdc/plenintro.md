@@ -1,5 +1,7 @@
 
-So, Dr. Hal Strelnick and Program Director Alma Idahen invited me to join the <b>Bronx Healthy Start Team</b> some five years ago, in the Spring of 2018. We were just beginning the second cycle, or term, of funding from HRSA.  
+So, Dr. Hal Strelnick and Program Director Alma Idahen invited me to join the <b>Bronx Healthy Start Team</b> some five years ago, in the Spring of 2018. 
+
+At that time we were just beginning the second cycle, or term, of funding from HRSA.  
 
 My role has been to support local program evaluation and quality improvement efforts. 
 
