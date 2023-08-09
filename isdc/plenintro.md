@@ -19,15 +19,11 @@ And Becki uses her medical knowledge and her understanding of how to help our CH
 
 Just in the last year, with Alma and Hal, we have started a Doula training program and a Father's program, both of which designed to support the core services that our CHWs are providing to participating familites. 
 
-Together we Healthy Start was established by HRSA back in 1991 to address the disparities in maternal and infant mortality rates among different racial and ethnic groups in the United States. 
+With this team and with these efforts to keep developing our local program, we are contributing in important ways to National Healthy Start, which was established by HRSA way back in 1991. 
 
-Over the years, the National Healthy Start Program has been successful in reducing rates of infant mortality and improving the health and well-being of families. 
+And we can be proud of that, I think, and proud of how <b>our Healthy Start program<b/> continues to evolve and adapt to the changing needs of our vibrant and diverse communities here in the Bronx.
 
-And, through my work with Bx Healthy Start, I have learned that Healthy Start a formidble national advocacy organization, expanding to over 100 local programs across the country, originally starting in the South, to serve communities with high need for improved access to maternal and child health care.
-
-The program continues to evolve and adapt to the changing needs of communities, with a focus on ensuring that all families have access to the resources and support they need for a healthy start in life. 
-
-Its impact has been significant, shaping policies and practices around maternal and child health in the United States.
+Thank you! 
 
 
 
