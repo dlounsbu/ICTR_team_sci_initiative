@@ -15,7 +15,7 @@ But building and sustaining quality relationships and finding ways to best suppo
 
 And that is where Drs. Caryn Rogers and Becki Williams come in. 
 
-Caryn uses her expertise in counseling to help us all avoid burnout, holding weekly check-in sessions with our CHWs. 
+Caryn uses her expertise in counseling to help us avoid burnout, holding weekly check-in sessions with our CHWs. 
 
 And Becki uses her medical knowledge and her understanding of how to help our CHWs navigate local perinatal care services. 
 
