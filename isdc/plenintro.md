@@ -1,3 +1,34 @@
+
+So, Dr. Hal Strelnick and Program Director Alma Idahen invited me to join the Bronx Healthy Start Team some five years ago, in the Spring of 2018. We were just beginning the second cycle, or term, of funding from HRSA.  
+
+As a community psychologist and a health services researcher, my role has been to support local program evaluation and quality improvement efforts. I assist in data analyses for progress reports to HRSA and I co-facilitate a monthly QI meeting with our amazing team of Community Health Workers. 
+
+
+
+The National Healthy Start Program was established by the Health Resources and Services Administration (HRSA) in 1991 to address the disparities in infant mortality rates among different racial and ethnic groups in the United States. The program aimed to improve maternal and child health outcomes in communities with high rates of infant mortality.
+
+Healthy Start provides a range of services to pregnant women, mothers, and infants, including prenatal and postpartum care, breastfeeding support, parenting education, and access to healthcare services. The program also addresses social determinants of health, such as poverty, substance abuse, and lack of access to healthcare and social services, which can contribute to poor health outcomes.
+
+Over the years, the National Healthy Start Program has been successful in reducing rates of infant mortality and improving the health and well-being of families. It has expanded to over 100 projects across the country, serving communities with high rates of infant mortality and disparate maternal and child health outcomes.
+
+The program continues to evolve and adapt to the changing needs of communities, with a focus on ensuring that all families have access to the resources and support they need for a healthy start in life. Its impact has been significant, shaping policies and practices around maternal and child health in the United States.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <b>INTRO</b>
 
 Thank you for the opportunity to talk about the NY HEALing Communities Study, which we are also offering as robust example of how system dynamic modeling can be used as in implementation research strategy. 
