@@ -1,7 +1,7 @@
 
 So, Dr. Hal Strelnick and Program Director Alma Idahen invited me to join the <b>Bronx Healthy Start Team</b> some five years ago, in the Spring of 2018. We were just beginning the second cycle, or term, of funding from HRSA.  
 
-As a <b>community psychologist and a health services researcher</b> here are Einstein, my role has been to support local program evaluation and quality improvement efforts. 
+As a <b>community psychologist and a health services researcher</b>, here are Einstein, my role has been to support local program evaluation and quality improvement efforts. 
 
 I assist in data analyses for progress reports to HRSA and I co-facilitate a monthly QI meeting with our amazing team of Community Health Workers. 
 
