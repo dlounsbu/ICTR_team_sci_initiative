@@ -3,13 +3,13 @@ So, Dr. Hal Strelnick and Program Director Alma Idahen invited me to join the <b
 
 At that time we were just beginning the second cycle, or term, of funding from HRSA.  
 
-My role through out this period has been to support local program evaluation and quality improvement efforts. 
+And my role through out this period has been to support local program evaluation and quality improvement efforts. 
 
-I mainly assist in data analyses for progress reports to HRSA <b>and</b> I co-facilitate a monthly QI meeting with our amazing team of Community Health Workers. 
+I mainly assist in data analyses for progress reports to HRSA <b>and</b> I co-facilitate a monthly QI meeting with Alma and with our amazing team of Community Health Workers. 
 
 We use our monthly meeting time to review various performance metrics and to problem solve ways of meeting the need of our more than 400 or so active participants. 
 
-As a <b>community psychologist and a health services researcher</b>, in my opinion, what makes BxHS work well really comes back to the <b>quality of the relationships</b> that our CHWs cultivate with all of our <b>referring providers, our community partners, and with each and every family we serve.</b> 
+Here at Einstien, as a <b>community psychologist and a health services researcher</b>, in my opinion, what makes BxHS work well really comes back to the <b>quality of the relationships</b> that our CHWs cultivate with all of our <b>referring providers, our community partners, and with each and every family we serve.</b> 
 
 But building and sustaining quality relationships and finding ways to best support our Healthy Start families is really hard work.
 
