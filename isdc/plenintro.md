@@ -17,6 +17,8 @@ Caryn uses her expertise in counseling to help us all avoid burnout, holding wee
 
 And Becki uses her medical knowledge and her understanding of how to help our CHWs navigate local perinatal care services. 
 
+Just in the last year, with Alma and Hal, we have started a Doula training program and a Father's program, both of which designed to support the core services that our CHWs are providing to participating familites. 
+
 Together we Healthy Start was established by HRSA back in 1991 to address the disparities in maternal and infant mortality rates among different racial and ethnic groups in the United States. 
 
 Over the years, the National Healthy Start Program has been successful in reducing rates of infant mortality and improving the health and well-being of families. 
