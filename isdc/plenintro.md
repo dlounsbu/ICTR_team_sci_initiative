@@ -11,11 +11,13 @@ As a <b>community psychologist and a health services researcher</b>, in my opini
 
 But building and sustaining quality relationships and finding ways to best support our Healthy Start families is really hard work.
 
-And that is where Drs. Caryn Rogers and Becki Campbell come in. Caryn uses her expertise in counseling to help us all avoid burnout, holding weekly check-in sessions with our CHWs. And Becki uses her medical knowledge and her understanding of how to help our CHWs navigate local perinatal care services. 
+And that is where Drs. Caryn Rogers and Becki Williams come in. 
 
-Twice I have had the opportunity to attend the <b>National Healthy Start Program Conference<b/> in Washington, DC, and through our on-going local programming and through the leadership of the National Healthy Start Program, my appreciation for what Healthy Start is and does for communities like ours, in the Bronx, has continually grown. 
+Caryn uses her expertise in counseling to help us all avoid burnout, holding weekly check-in sessions with our CHWs. 
 
-Healthy Start was established by HRSA in 1991 to address the disparities in maternal and infant mortality rates among different racial and ethnic groups in the United States. 
+And Becki uses her medical knowledge and her understanding of how to help our CHWs navigate local perinatal care services. 
+
+Together we Healthy Start was established by HRSA back in 1991 to address the disparities in maternal and infant mortality rates among different racial and ethnic groups in the United States. 
 
 Over the years, the National Healthy Start Program has been successful in reducing rates of infant mortality and improving the health and well-being of families. 
 
