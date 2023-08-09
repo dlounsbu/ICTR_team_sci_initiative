@@ -29,6 +29,11 @@ The program continues to evolve and adapt to the changing needs of communities, 
 
 
 
+
+
+
+
+
 <b>INTRO</b>
 
 Thank you for the opportunity to talk about the NY HEALing Communities Study, which we are also offering as robust example of how system dynamic modeling can be used as in implementation research strategy. 
