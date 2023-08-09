@@ -3,9 +3,17 @@ So, Dr. Hal Strelnick and Program Director Alma Idahen invited me to join the <b
 
 As a <b>community psychologist and a health services researcher</b> here are Einstein, my role has been to support local program evaluation and quality improvement efforts. 
 
-I assist in data analyses for progress reports to HRSA and I co-facilitate a monthly QI meetin with our amazing team of Community Health Workers. We use the time to problem solve ways to document all the work that is being done for our more than 400 or so active participants. 
+I assist in data analyses for progress reports to HRSA and I co-facilitate a monthly QI meeting with our amazing team of Community Health Workers. 
 
-Twice I have had the opportunity to attend the <b>National Healthy Start Program Conference<b/> in Washington, DC, and through our on-going local programming and through the leadership of the Natational Healthy Start Program, my appreciation for what Healthy Start is and does for communities like ours, in the Bronx, has grown. 
+We use the time to problem solve ways to document all the work that is being done for our more than 400 or so active participants. 
+
+What makes BxHS work well really comes back to quality of the relationships that our CHWs cultivate with all of our referring provider, our community parnters and with each and every familiy served. 
+
+But building and sustaining quality relationships and finding ways to best support our Healthy Start families is really hard work. 
+
+And that is where Drs. Caryn Rogers and Becki Campbell come in. Caryn uses her expertise in counseling to help us all avoid burnout, holding weekly check-in sessions with our CHWs. And Becki uses her medical knowledge and her understanding of how to help our CHWs navigate local perinatal care services. 
+
+Twice I have had the opportunity to attend the <b>National Healthy Start Program Conference<b/> in Washington, DC, and through our on-going local programming and through the leadership of the National Healthy Start Program, my appreciation for what Healthy Start is and does for communities like ours, in the Bronx, has continually grown. 
 
 Healthy Start was established by HRSA in 1991 to address the disparities in maternal and infant mortality rates among different racial and ethnic groups in the United States. 
 
