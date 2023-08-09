@@ -3,7 +3,7 @@ So, Dr. Hal Strelnick and Program Director Alma Idahen invited me to join the <b
 
 As a <b>community psychologist and a health services researcher</b>, here are Einstein, my role has been to support local program evaluation and quality improvement efforts. 
 
-I assist in data analyses for progress reports to HRSA <b>and<b/> I co-facilitate a monthly QI meeting with our amazing team of Community Health Workers. 
+I mainly assist in data analyses for progress reports to HRSA <b>and<b/> I co-facilitate a monthly QI meeting with our amazing team of Community Health Workers. 
 
 We use our monthly meeting time to review various performance metrics for our program and to problem solve ways of meeting the need of our more than 400 or so active participants. 
 
