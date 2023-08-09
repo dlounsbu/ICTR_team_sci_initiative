@@ -9,7 +9,7 @@ I mainly assist in data analyses for progress reports to HRSA <b>and</b> I co-fa
 
 We use our monthly meeting time to review various performance metrics and to problem solve ways of meeting the need of our more than 400 or so active participants. 
 
-Here at Einstien, as a <b>community psychologist and a health services researcher</b>, in my opinion, what makes BxHS work well really comes back to the <b>quality of the relationships</b> that our CHWs cultivate with all of our <b>referring providers, our community partners, and with each and every family we serve.</b> 
+Here at Einstein, as a <b>community psychologist and a health services researcher</b>, in my opinion, what makes BxHS work well really comes back to the <b>quality of the relationships</b> that our CHWs cultivate with all of our <b>referring providers, our community partners, and with each and every family we serve.</b> 
 
 But building and sustaining quality relationships and finding ways to best support our Healthy Start families is really hard work.
 
@@ -19,7 +19,7 @@ Caryn uses her expertise in counseling to help us avoid burnout, holding weekly 
 
 And Becki uses her medical knowledge and her understanding of how to help our CHWs navigate local perinatal care services. 
 
-Just in the last year, with Alma and Hal, we have started a <b>Doula training program</b> and a <b>Father's program,</b> both of which are designed to support the core services that our CHWs are providing to participating familites. 
+Just in the last year, with remarkable effort on the part of all of us, we have started a <b>Doula training program</b> and a <b>Father's program,</b> both of which are designed to support the core services that our CHWs are providing to participating familites. 
 
 With this team and with these efforts to keep developing our local program, we are contributing in important ways to National Healthy Start, which was established by HRSA way back in 1991. 
 
