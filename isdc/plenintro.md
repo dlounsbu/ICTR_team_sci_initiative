@@ -1,15 +1,15 @@
 
-So, Dr. Hal Strelnick and Program Director Alma Idahen invited me to join the Bronx Healthy Start Team some five years ago, in the Spring of 2018. We were just beginning the second cycle, or term, of funding from HRSA.  
+So, Dr. Hal Strelnick and Program Director Alma Idahen invited me to join the <b>Bronx Healthy Start Team</b> some five years ago, in the Spring of 2018. We were just beginning the second cycle, or term, of funding from HRSA.  
 
-As a community psychologist and a health services researcher, my role has been to support local program evaluation and quality improvement efforts. I assist in data analyses for progress reports to HRSA and I co-facilitate a monthly QI meeting with our amazing team of Community Health Workers. 
+As a <b>community psychologist and a health services researcher<b/> here are Einstein, my role has been to support local program evaluation and quality improvement efforts. I assist in data analyses for progress reports to HRSA and I co-facilitate a monthly QI meetin with our amazing team of Community Health Workers. We use the time to problem solve ways to document all the work that is being done for our more than 400 or so active participants. 
 
+Twice I have had the opportunity to attend the National Healthy Start Program Conference in Washington, DC, and through our on-going local programming and through the leadership of the Natational Healthy Start Program, my appreciation for what Healthy Start is and does for communities like ours, in the Bronx, has grown. 
 
+Healthy Start was established by HRSA in 1991 to address the disparities in maternal and infant mortality rates among different racial and ethnic groups in the United States. 
 
-The National Healthy Start Program was established by the Health Resources and Services Administration (HRSA) in 1991 to address the disparities in infant mortality rates among different racial and ethnic groups in the United States. The program aimed to improve maternal and child health outcomes in communities with high rates of infant mortality.
+Over the years, the National Healthy Start Program has been successful in reducing rates of infant mortality and improving the health and well-being of families. 
 
-Healthy Start provides a range of services to pregnant women, mothers, and infants, including prenatal and postpartum care, breastfeeding support, parenting education, and access to healthcare services. The program also addresses social determinants of health, such as poverty, substance abuse, and lack of access to healthcare and social services, which can contribute to poor health outcomes.
-
-Over the years, the National Healthy Start Program has been successful in reducing rates of infant mortality and improving the health and well-being of families. It has expanded to over 100 projects across the country, serving communities with high rates of infant mortality and disparate maternal and child health outcomes.
+And, through my work with Bx Healthy Start, I have learned that Healthy Start a formidble national advocacy organization, expanding to over 100 local programs across the country, originally starting in the South, to serve communities with high need for improved access to maternal and child health care.
 
 The program continues to evolve and adapt to the changing needs of communities, with a focus on ensuring that all families have access to the resources and support they need for a healthy start in life. Its impact has been significant, shaping policies and practices around maternal and child health in the United States.
 
