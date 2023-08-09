@@ -19,11 +19,11 @@ Caryn uses her expertise in counseling to help us avoid burnout, holding weekly 
 
 And Becki uses her medical knowledge and her understanding of how to help our CHWs navigate local perinatal care services. 
 
-Just in the last year, with Alma and Hal, we have started a <b>Doula training program<b/> and a <b>Father's program,<b/> both of which designed to support the core services that our CHWs are providing to participating familites. 
+Just in the last year, with Alma and Hal, we have started a <b>Doula training program</b> and a <b>Father's program,</b> both of which designed to support the core services that our CHWs are providing to participating familites. 
 
 With this team and with these efforts to keep developing our local program, we are contributing in important ways to National Healthy Start, which was established by HRSA way back in 1991. 
 
-And we can be proud of that, I think, and proud of how <b>our Healthy Start program<b/> continues to evolve and adapt to the changing needs of our vibrant and diverse communities here in the Bronx.
+And we can be proud of that, I think, and proud of how <b>our Healthy Start program</b> continues to evolve and adapt to the changing needs of our vibrant and diverse communities here in the Bronx.
 
 Thank you! 
 
