@@ -3,7 +3,7 @@ So, Dr. Hal Strelnick and Program Director Alma Idahen invited me to join the <b
 
 At that time we were just beginning the second cycle, or term, of funding from HRSA.  
 
-My role has been to support local program evaluation and quality improvement efforts. 
+My role through out this period has been to support local program evaluation and quality improvement efforts. 
 
 I mainly assist in data analyses for progress reports to HRSA <b>and</b> I co-facilitate a monthly QI meeting with our amazing team of Community Health Workers. 
 
