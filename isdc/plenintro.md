@@ -1,16 +1,13 @@
-My research:
-1.	Participatory research to develop community-based systems of care:
+Three themes define my research interests: 
 
-•	Foster effective collaborative with scientists, clinicians, patients, public health authorities and other stakeholders
+1. Participatory research to develop community-based systems of care:
 
+•	This entails working to foster effective collaborative with scientists, clinicians, patients, public health authorities and other stakeholders
 •	Disseminate and implement evidence-based public health and clinical interventions to communities 
 
 2.	Capacity-building to reduce disparities in global cancer burden 
-
 •	With partners in low and middle income countries (LMIC), address mutually beneficial research aims
-
 •	Apply principles of psycho-oncology, an emerging subdiscipline of research and clinical intervention in cancer, to prioritize research agendas 
-
 •	Focus on primary prevention, survivorship, and quality of life   
 
 3.	Applying systems thinking and system dynamics modeling to address complex health care problems
