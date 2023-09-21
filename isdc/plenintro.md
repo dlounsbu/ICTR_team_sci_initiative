@@ -4,33 +4,15 @@ By training, I am a community psychologist and a psycho-oncologist.
 
 I have expertise in both qualitative and quantitative methods, including survey research, cognitive interviewing, and community outreach and engagement. 
 
-I specialize in the application of system dynamics modeling, which is a systems science method that actually demands robust stakeholder engagement. 
+I specialize in the application of participatory system dynamics modeling, which is a still relatively novel method of stakeholder engaged research. 
 
-I use this approach to develop and validate computational tools that examine complex organizational and/or community problems and their potential solutions. 
+I system dynamics, which comes from Control Theory in the field of Engineering to examine complex organizational and/or community problems and their potential solutions. 
 
 And I have been teaching Patient-Centered Outcomes Research in Einstein's MS Program in Clinical Research Training Program (CRTP) since Fall 2018. So, 2023 is my 6th anniversary serving in this capacity.
 
 
 
 
-He has expertise 
-
-Three themes define my research interests: 
-
-1. Participatory research to develop community-based systems of care:
-
-•	This entails working to foster effective collaborative with scientists, clinicians, patients, public health authorities and other stakeholders
-•	Disseminate and implement evidence-based public health and clinical interventions to communities 
-
-2.	Capacity-building to reduce disparities in global cancer burden 
-•	With partners in low and middle income countries (LMIC), address mutually beneficial research aims
-•	Apply principles of psycho-oncology, an emerging subdiscipline of research and clinical intervention in cancer, to prioritize research agendas 
-•	Focus on primary prevention, survivorship, and quality of life   
-
-3.	Applying systems thinking and system dynamics modeling to address complex health care problems
-Broadly introduce and teach this methodology to others.
-
-System dynamics modeling as a novel and robust method of stakeholder engaged research. 
 
 System dynamics modeling informs policy analysis and strategic planning. 
 
