@@ -6,9 +6,11 @@ I have expertise in both qualitative and quantitative methods, including survey 
 
 I specialize in the application of participatory system dynamics modeling, which is a still relatively novel method of stakeholder engaged research. 
 
-I system dynamics, which comes from Control Theory in the field of Engineering to examine complex organizational and/or community problems and their potential solutions. 
+I apply system dynamics, which comes from Control Theory in the field of Engineering to examine complex organizational and/or community problems and their potential solutions. 
 
-And I have been teaching Patient-Centered Outcomes Research in Einstein's MS Program in Clinical Research Training Program (CRTP) since Fall 2018. So, 2023 is my 6th anniversary serving in this capacity.
+And I have been teaching Patient-Centered Outcomes Research in Einstein's MS Program in Clinical Research Training Program (CRTP) since Fall 2018. 
+
+So, 2023 is my 6th anniversary serving in this capacity.
 
 
 
