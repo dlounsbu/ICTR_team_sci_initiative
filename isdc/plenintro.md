@@ -1,3 +1,20 @@
+I am an Associate Professor of Epidemiology and Population Health.
+
+By training, I am a community psychologist and a psycho-oncologist. 
+
+I have expertise in both qualitative and quantitative methods, including survey research, cognitive interviewing, and community outreach and engagement. 
+
+I specialize in the application of system dynamics modeling, which is a systems science method that actually demands robust stakeholder engagement. 
+
+I use this approach to develop and validate computational tools that examine complex organizational and/or community problems and their potential solutions. 
+
+And I have been teaching Patient-Centered Outcomes Research in Einstein's MS Program in Clinical Research Training Program (CRTP) since Fall 2018. So, 2023 is my 6th anniversary serving in this capacity.
+
+
+
+
+He has expertise 
+
 Three themes define my research interests: 
 
 1. Participatory research to develop community-based systems of care:
