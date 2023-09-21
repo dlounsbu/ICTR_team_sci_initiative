@@ -14,6 +14,11 @@ And I have been teaching Patient-Centered Outcomes Research in Einstein's MS Pro
 
 
 
+
+
+
+
+
 System dynamics modeling informs policy analysis and strategic planning. 
 
 System dynamics is grounded in control theory and the modern theory of non-linear dynamics, or feedback (originally called Cybernetics). 
