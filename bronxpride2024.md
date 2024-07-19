@@ -12,7 +12,9 @@ I want to thank Appalonia and Rev. Carmen Hernandez for inviting me to the podiu
 
 Let’s take a moment to talk about how important it is to make sure that we are supporting each other’s health. 
 
-How can we do that? One very important way to support your health and your LGBTQ friends’ and family’s health is to make sure everyone has, and ideally loves, their primary care provider.
+How can we do that? 
+
+One very important way to support your health and your LGBTQ friends’ and family’s health is to make sure everyone has, and ideally loves, their primary care provider.
 
 At Einstein, my research aims to find ways to partner with primary care doctors and other health care providers to find ways of helping the community be healthier. 
 
@@ -22,7 +24,9 @@ We know that these are diseases touch many of us in the LGBTQ community.
 
 I am a prostate cancer survivor, now 13 years cancer free, actually. 
 
-Finding out that I had cancer was a total surprise. If it had not been for my own excellent primary care provider, a gay man himself who at the time managed a small but busy practice in Chelsea with nearly exclusively LGBTQ patients, I might very well not be here today. 
+Finding out that I had cancer was a total surprise. 
+
+If it had not been for my own excellent primary care provider, a gay man himself who at the time managed a small but busy practice in Chelsea with nearly exclusively LGBTQ patients, I might very well not be here today. 
 
 Regular cancer screenings save lives, period. Many types of cancer, when caught early, are highly treatable. 
 
@@ -36,9 +40,13 @@ We need to make health care more affordable and offer information on financial a
 
 And, of course, we need to create supportive and non-judgmental environments we feel safe as LGBTQ patients, and where we feel inspired to take proactive steps in our healthcare.
 
-Now, did you know that studies show that we have higher smoking rates in the LGBTQ community? And that lesbians and bisexual women, in particular, have higher smoking rates, increasing their risk for lung cancer and other cancers, including breast cancer?
+Now, did you know that studies show that we have higher smoking rates in the LGBTQ community? 
 
-And what about HPV-Related Cancers? We know that certain strains of Human papillomavirus (HPV) are associated with cervical cancers in women and, in men who have sex with men (MSM), HPV-related cancers, including anal and throat cancers. 
+And that lesbians and bisexual women, in particular, have higher smoking rates, increasing their risk for lung cancer and other cancers, including breast cancer?
+
+And what about HPV-Related Cancers? 
+
+We know that certain strains of Human papillomavirus (HPV) are associated with cervical cancers in women and, in men who have sex with men (MSM), HPV-related cancers, including anal and throat cancers. 
 
 The good news is that we have a highly efficacious HPV vaccination for all, which works best when it is administered to our LGBTQ youths and MSM up to the age of 26 (and sometimes older, based on individual risk factors), as it can prevent many types of cancers.
 
@@ -62,9 +70,15 @@ Now, another critical health issue that demands our attention is routine HIV tes
 
 The reality is stark: young Black and Latinx gay and bisexual men and transgender individuals are disproportionately affected by HIV in the Bronx. 
 
-Routine HIV testing and PrEP are powerful preventive tools in our fight against HIV/AIDS. Knowing our status empowers us to take control of our health, whether that means accessing treatment or taking preventive measures like PrEP.
+Routine HIV testing and PrEP are powerful preventive tools in our fight against HIV/AIDS. 
 
-To our young Black and Latinx LGBTQ folks: You are powerful. You are resilient. And your health matters. Routine HIV testing should be a regular part of your healthcare routine. Don't be afraid to ask for it, and don’t be afraid to talk openly with your partners and friends about it.
+Knowing our status empowers us to take control of our health, whether that means accessing treatment or taking preventive measures like PrEP.
+
+To our young Black and Latinx LGBTQ folks: You are powerful. You are resilient. And your health matters. 
+
+Routine HIV testing should be a regular part of your healthcare routine. 
+
+Don't be afraid to ask for it, and don’t be afraid to talk openly with your partners and friends about it.
 
 And, I am happy to announce that my colleague Dr. Jonthan Ross and I just been awarded a brand new grant 5-year grant from the National Institutes of Health that will work in partnership with the Bronx LGBTQ community to find ways to scale up access to PrEP for our Black and Latino LGBTQ youth. 
 
@@ -78,7 +92,9 @@ I am so excited about this study, which will engaged community expertise from:
 
 **[Call to Action]**
 
-Today, let’s make a promise to ourselves and each other – to prioritize our health and well-being. Let’s support and advocate for one another, ensuring that our healthcare providers understand our unique needs and treat us with the respect and dignity we deserve.
+Today, let’s make a promise to ourselves and each other – to prioritize our health and well-being. 
+
+Let’s support and advocate for one another, ensuring that our healthcare providers understand our unique needs and treat us with the respect and dignity we deserve.
 
 We need to push for inclusive healthcare services, demand education and awareness campaigns that focus on our community, and support organizations that work tirelessly for our health and rights.
 
