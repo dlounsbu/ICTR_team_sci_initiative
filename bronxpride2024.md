@@ -84,12 +84,18 @@ Don't be afraid to ask for it, and don’t be afraid to talk openly with your pa
 
 And, I am happy to announce that my colleague Dr. Jonthan Ross and I just been awarded a brand new grant 5-year grant from the National Institutes of Health that will work in partnership with the Bronx LGBTQ community to find ways to scale up access to PrEP for our Black and Latino LGBTQ youth. 
 
-I am so excited about this study, which will engaged community expertise from: 
+I am so excited about this study, which will engaged community expertise from:
+
 •	The Latino Commission on AIDS
+
 •	Destination Tomorrow
+
 •	PrEP4All 
+
 •	The Montefiore Department of Community and Population Health
+
 •	Our Center for AIDS Research at Einstein, CUNY and Rockefeller
+
 •	The Bronx Borough President’s Office
 
 **[Call to Action]**
