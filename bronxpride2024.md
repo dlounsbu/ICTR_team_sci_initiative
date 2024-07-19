@@ -48,7 +48,7 @@ And what about HPV-Related Cancers?
 
 We know that certain strains of Human papillomavirus (HPV) are associated with cervical cancers in women and, in men who have sex with men (MSM), HPV-related cancers, including anal and throat cancers. 
 
-The good news is that we have a highly efficacious HPV vaccination for all, which works best when it is administered to our LGBTQ youths and MSM up to the age of 26 (and sometimes older, based on individual risk factors), as it can prevent many types of cancers.
+The good news is that we have a highly efficacious HPV vaccination for all, which works best when it is administered to our LGBTQ youths and MSM up to the age of 26.
 
 Breast and cervical cancer: We know that LGBTQ women may avoid gynecologic exams and screenings due to historical or ongoing discrimination, potentially increasing their risk for undetected breast and cervical cancers.
 
@@ -56,7 +56,9 @@ Again, the solution is finding a primary care provider you like who is knowledge
 
 Healthcare settings that are welcoming and inclusive can significantly impact the willingness of LGBTQ individuals to seek preventive care and screenings.
 
-This is where I want to mention DISRUPT. DISRUPT is an on-going project that is leading a change in cancer research at major New York medical centers, including Montefiore and Einstein, Mt. Sinai and Columbia University, with a focus on Black and Latino communities in the Bronx, Washington Heights, East Harlem and Central Harlem. 
+This is where I want to mention DISRUPT. 
+
+DISRUPT is an on-going project that is leading a change in cancer research at major New York medical centers, including Montefiore and Einstein, Mt. Sinai and Columbia University, with a focus on Black and Latino communities in the Bronx, Washington Heights, East Harlem and Central Harlem. 
 
 DISRUPT stands for DIVERSITY & INCLUSION IN RESEARCH UNDERPINNING PREVENTION & THERAPY TRIALS. 
 
