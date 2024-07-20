@@ -22,7 +22,7 @@ One very important way to support **your** health and **your LGBTQ friends’ an
 
 At Einstein, my research aims to find ways to partner with primary care doctors and other health care providers to find ways of helping the community be healthier. 
 
-Over the years, much of my research has addressed issues concerning cancer or HIV care issues. 
+Over the years, much of my research has addressed issues concerning cancer care and HIV care issues. 
 
 We know that these diseases touch many of us in the LGBTQ community. 
 
