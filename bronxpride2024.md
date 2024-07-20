@@ -86,6 +86,8 @@ Another critical health issue that demands our attention is routine HIV testing 
 
 The reality is stark: young Black and Latinx gay and bisexual men and transgender individuals are most at risk of HIV in the Bronx. 
 
+They are many times more likely to become HIV+ than any other group in our community.
+
 Routine HIV testing and PrEP are powerful preventive tools in our fight against HIV/AIDS. 
 
 Knowing our status empowers us to take control of our health, whether that means accessing treatment or taking preventive measures like PrEP.
@@ -96,9 +98,11 @@ Routine HIV testing should be a regular part of your healthcare routine.
 
 Don't be afraid to ask for it, and don’t be afraid to talk openly with your partners and friends about it.
 
-And, I am happy to announce that my colleague Dr. Jonthan Ross and I just been awarded a brand new grant 5-year grant from the National Institutes of Health that will work in partnership with the Bronx LGBTQ community to find ways to scale up access to PrEP for our Black and Latino LGBTQ youth. 
+To help meet this need in the Bronx, I am happy to announce that my Montifiore colleague Dr. Jonthan Ross and I have just been awarded a brand new grant 5-year grant from the National Institutes of Health. 
 
-I am so excited about this study, which will engaged community expertise from:
+This study will work in partnership with the Bronx LGBTQ community to find ways to scale up access to PrEP for our Black and Latino LGBTQ youth. 
+
+I am so excited about this project, which will engage community expertise from:
 
 •	The Latino Commission on AIDS
 
@@ -108,7 +112,7 @@ I am so excited about this study, which will engaged community expertise from:
 
 •	The Montefiore Department of Community and Population Health
 
-•	Our Center for AIDS Research at Einstein, CUNY and Rockefeller
+•	Our Center for AIDS Research at Einstein, CUNY and Rockefeller AND
 
 •	The Bronx Borough President’s Office
 
@@ -118,7 +122,7 @@ Today, let’s make a promise to ourselves and each other – to prioritize our 
 
 Let’s support and advocate for one another, ensuring that our healthcare providers understand our unique needs and treat us with the respect and dignity we deserve.
 
-We need to push for inclusive healthcare services, demand education and awareness campaigns that focus on our community, and support organizations that work tirelessly for our health and rights.
+We need to push for inclusive healthcare services, demand education and awareness campaigns that focus on our community, and support COMMUNITY RESEARCH that partners with organizations that work tirelessly for our health and rights.
 
 If you want to learn more or if you want to support either our DISRUPT Cancer Project or our PrEP HIV Prevention Project, please call me! 
 
