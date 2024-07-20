@@ -44,7 +44,9 @@ We need to make health care more affordable and offer information on financial a
 
 And, of course, we need to create supportive and non-judgmental environments where we feel safe as LGBTQ patients, and where we feel inspired to take proactive steps in our own healthcare.
 
-Now, did you know that studies show that we have higher smoking rates in the LGBTQ community? 
+Here are some facts I want to share with you about cancer risk for LGBTQ persons:
+
+Did you know that studies show that we have higher smoking rates in the LGBTQ community? 
 
 And that lesbians and bisexual women, in particular, have higher smoking rates, increasing their risk for lung cancer and other cancers, including breast cancer?
 
