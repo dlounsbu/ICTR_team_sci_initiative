@@ -8,7 +8,7 @@ Good afternoon, everyone!
 
 It’s incredible to see so many beautiful faces gathered here today!
 
-All of here in the Bronx to celebrate pride, love, and UNITY in our vibrant LGBTQ community.
+All of us coming together to celebrate pride, love, and UNITY in our vibrant LGBTQ Bronx community.
 
 **[Addressing LGBTQ Health Disparities]**
 
