@@ -26,11 +26,11 @@ I am a prostate cancer survivor, now 13 years cancer free, actually.
 
 Finding out that I had cancer was a total surprise. 
 
-If it had not been for my own excellent primary care provider, a gay man himself who at the time managed a small but busy practice in Chelsea with nearly exclusively LGBTQ patients, I might very well not be here today. 
+If it had not been for my own excellent primary care provider, a gay man himself who, at the time, was running a small, but very busy practice in Chelsea for nearly exclusively LGBTQ patients, I might very well not be here today. 
 
-Regular cancer screenings save lives, period. Many types of cancer, when caught early, are highly treatable. 
+Regular cancer screenings save lives. Period. Many types of cancer, when caught early, are highly treatable. 
 
-Yet LGBTQ individuals are less likely to receive recommended preventive screenings due to a variety of barriers – from discrimination in healthcare settings to a lack of culturally competent care. 
+Yet, LGBTQ individuals are less likely to receive recommended preventive screenings due to a variety of barriers – from discrimination in healthcare settings to a lack of culturally competent care. 
 
 We need to find ways to change that. 
 
@@ -38,7 +38,7 @@ We need to provide more resources and support to overcome potential stigma or di
 
 We need to make health care more affordable and offer information on financial assistance programs for those who are underinsured or uninsured.
 
-And, of course, we need to create supportive and non-judgmental environments we feel safe as LGBTQ patients, and where we feel inspired to take proactive steps in our healthcare.
+And, of course, we need to create supportive and non-judgmental environments where we feel safe as LGBTQ patients, and where we feel inspired to take proactive steps in our own healthcare.
 
 Now, did you know that studies show that we have higher smoking rates in the LGBTQ community? 
 
