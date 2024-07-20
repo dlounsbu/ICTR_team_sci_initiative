@@ -76,7 +76,7 @@ DISRUPT stands for DIVERSITY & INCLUSION IN RESEARCH UNDERPINNING PREVENTION & T
 
 DISRUPT is all about community and unity. 
 
-We seek to increase awareness about the specific cancer risks and screening recommendations within the LGBTQ community and beyond, through targeted education and outreach programs.
+We seek to increase access to high quality cancer care and we are supporting new ways to promote participation in cancer clincal trails, within the LGBTQ community and beyond, through targeted education and outreach programs.
 
 This is the work that Rev. Carmen Hernandez and others are doing, and we are so grateful to her and to our other community programming co-designers. Thank you Rev. Carmen.
 
