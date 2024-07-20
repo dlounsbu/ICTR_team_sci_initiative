@@ -16,9 +16,9 @@ I want to thank Appalonia and Rev. Carmen Hernandez for inviting me to the podiu
 
 Let’s take a moment to talk about how important it is to make sure that we are supporting each other’s health. 
 
-How can we do that? 
+**How can we do that?**
 
-One very important way to support your health and your LGBTQ friends’ and family’s health is to make sure everyone has, and ideally loves, their primary care provider.
+One very important way to support **your** health and **your LGBTQ friends’ and family’s health** is to make sure everyone has, and ideally loves, their primary care provider.
 
 At Einstein, my research aims to find ways to partner with primary care doctors and other health care providers to find ways of helping the community be healthier. 
 
