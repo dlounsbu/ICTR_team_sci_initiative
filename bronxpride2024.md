@@ -32,7 +32,9 @@ Finding out that I had cancer was a total surprise.
 
 If it had not been for my own excellent primary care provider, a gay man himself who at that time was running a small, but very busy practice in Chelsea for nearly exclusively LGBTQ patients, I might very well not be here today. 
 
-Regular cancer screenings save lives. Period. Many types of cancer, when caught early, are highly treatable. 
+Regular cancer screenings save lives. Period. 
+
+Many types of cancer, when caught early, are highly treatable. 
 
 Yet, LGBTQ individuals are less likely to receive recommended preventive screenings due to a variety of barriers – from discrimination in healthcare settings to a lack of culturally competent care. 
 
