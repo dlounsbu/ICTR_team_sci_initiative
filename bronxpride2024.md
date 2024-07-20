@@ -66,19 +66,21 @@ Healthcare settings that are welcoming and inclusive can significantly impact th
 
 This is where I want to mention DISRUPT. 
 
-DISRUPT is an on-going project that is leading a change in cancer research at major New York medical centers, including Montefiore and Einstein, Mt. Sinai and Columbia University, with a focus on Black and Latino communities in the Bronx, Washington Heights, East Harlem and Central Harlem. 
+DISRUPT is an on-going project that is changing the way cancer research is supported at major New York medical academic centers, including Montefiore Medical Center, Mt. Sinai, and Columbia University, with a focus on Black and Latinx communities in the Bronx, Washington Heights, East Harlem and Central Harlem. 
 
 DISRUPT stands for DIVERSITY & INCLUSION IN RESEARCH UNDERPINNING PREVENTION & THERAPY TRIALS. 
 
-DISRUPT is all about education and awareness. We seek to increase awareness about the specific cancer risks and screening recommendations within the LGBTQ community and beyond, through targeted education and outreach programs.
+DISRUPT is all about community and unity. 
 
-This is the work that Rev. Carmen Hernandez and others are doing, and we are so grateful to her and our other community programming co-designers. Thank you Rev. Carmen.
+We seek to increase awareness about the specific cancer risks and screening recommendations within the LGBTQ community and beyond, through targeted education and outreach programs.
+
+This is the work that Rev. Carmen Hernandez and others are doing, and we are so grateful to her and to our other community programming co-designers. Thank you Rev. Carmen.
 
 **[Routine HIV Testing for Black and Latinx LGBTQ Youth]**
 
-Now, another critical health issue that demands our attention is routine HIV testing and access to HIV prevention medication, or PrEP (pre-exposure prophylaxis), especially for our Black and Latinx LGBTQ youth. 
+Another critical health issue that demands our attention is routine HIV testing and access to HIV prevention medication, or PrEP (pre-exposure prophylaxis), especially for our Black and Latinx LGBTQ youth. 
 
-The reality is stark: young Black and Latinx gay and bisexual men and transgender individuals are disproportionately affected by HIV in the Bronx. 
+The reality is stark: young Black and Latinx gay and bisexual men and transgender individuals are most at risk of HIV in the Bronx. 
 
 Routine HIV testing and PrEP are powerful preventive tools in our fight against HIV/AIDS. 
 
