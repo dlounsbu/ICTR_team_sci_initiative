@@ -6,7 +6,9 @@ You will go up together prior to the 2:50 time slot.
 
 Good afternoon, everyone! 
 
-It’s incredible to see so many beautiful faces gathered here today in the Bronx to celebrate pride, love, and UNITY in our vibrant LGBTQ community.
+It’s incredible to see so many beautiful faces gathered here today!
+
+All of here in the Bronx to celebrate pride, love, and UNITY in our vibrant LGBTQ community.
 
 **[Addressing LGBTQ Health Disparities]**
 
