@@ -62,7 +62,7 @@ Breast and cervical cancer: We know that LGBTQ women may avoid gynecologic exams
 
 Again, the solution is finding a primary care provider who is knowledgeable and sensitive to your needs. 
 
-And this is what we working for:
+And this is what we are working for:
 
 Making sure that healthcare settings are welcoming and inclusive, as studies show that clinics that are more welcoming and inclusive truly impact the willingness of LGBTQ individuals to seek preventive care and screenings.
 
