@@ -20,7 +20,7 @@ At Einstein, my research aims to find ways to partner with primary care doctors 
 
 Over the years, much of my research has addressed issues concerning cancer or HIV care issues. 
 
-We know that these are diseases touch many of us in the LGBTQ community. 
+We know that these diseases touch many of us in the LGBTQ community. 
 
 I am a prostate cancer survivor, now 13 years cancer free, actually. 
 
