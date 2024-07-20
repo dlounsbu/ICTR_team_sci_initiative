@@ -30,7 +30,7 @@ I am a prostate cancer survivor, now 13 years cancer free, actually.
 
 Finding out that I had cancer was a total surprise. 
 
-If it had not been for my own excellent primary care provider, a gay man himself who, at the time, was running a small, but very busy practice in Chelsea for nearly exclusively LGBTQ patients, I might very well not be here today. 
+If it had not been for my own excellent primary care provider, a gay man himself who at that time was running a small, but very busy practice in Chelsea for nearly exclusively LGBTQ patients, I might very well not be here today. 
 
 Regular cancer screenings save lives. Period. Many types of cancer, when caught early, are highly treatable. 
 
