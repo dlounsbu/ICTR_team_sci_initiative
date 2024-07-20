@@ -6,10 +6,6 @@ You will go up together prior to the 2:50 time slot.
 
 Good afternoon, everyone! 
 
-It’s incredible to see so many beautiful faces gathered here today!
-
-All of us coming together to celebrate pride, love, and UNITY in our vibrant LGBTQ Bronx community.
-
 **[Addressing LGBTQ Health Disparities]**
 
 I want to thank Appalonia and Rev. Carmen Hernandez for inviting me to the podium today.
