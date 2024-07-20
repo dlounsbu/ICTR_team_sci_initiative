@@ -94,7 +94,7 @@ Knowing our status empowers us to take control of our health, whether that means
 
 To our young Black and Latinx LGBTQ folks: You are powerful. You are resilient. And your health matters. 
 
-Routine HIV testing should be a regular part of your healthcare routine. 
+Make an appt today with a primary care provider and make routine HIV testing a regular part of your healthcare routine. 
 
 Don't be afraid to ask for it, and don’t be afraid to talk openly with your partners and friends about it.
 
