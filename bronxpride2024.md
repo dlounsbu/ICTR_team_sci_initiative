@@ -4,7 +4,9 @@ You will go up together prior to the 2:50 time slot.
 
 **[Greeting: Start with a Personal Story]**
 
-Good afternoon, everyone! It’s incredible to see so many beautiful faces gathered here today in the Bronx to celebrate pride, love, and our vibrant LGBTQ community.
+Good afternoon, everyone! 
+
+It’s incredible to see so many beautiful faces gathered here today in the Bronx to celebrate pride, love, and UNITY in our vibrant LGBTQ community.
 
 **[Addressing LGBTQ Health Disparities]**
 
