@@ -54,7 +54,7 @@ And what about HPV-Related Cancers?
 
 We know that certain strains of Human papillomavirus (HPV) are associated with cervical cancers in women and, in men who have sex with men (MSM), anal and throat cancers. 
 
-The good news is that we have a highly efficacious HPV vaccination for all, which works best when it is administered to our LGBTQ youths and MSM up to the age of 26.
+The good news is that we have a highly efficacious HPV vaccination, which is recommeded for all LGBTQ people, especially for our LGBTQ youths and MSM up to the age of 26.
 
 Breast and cervical cancer: We know that LGBTQ women may avoid gynecologic exams and screenings due to historical or ongoing discrimination, potentially increasing their risk for undetected breast and cervical cancers.
 
