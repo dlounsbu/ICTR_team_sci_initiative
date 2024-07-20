@@ -56,9 +56,9 @@ We know that certain strains of Human papillomavirus (HPV) are associated with c
 
 The good news is that we have a highly efficacious HPV vaccination, which is recommeded for all LGBTQ people, especially for our LGBTQ youths and MSM up to the age of 26.
 
-Breast and cervical cancer: We know that LGBTQ women may avoid gynecologic exams and screenings due to historical or ongoing discrimination, potentially increasing their risk for undetected breast and cervical cancers.
+Breast and cervical cancer: We know that LGBTQ women may avoid gynecologic exams and screenings due to discrimination, potentially increasing their risk for undetected breast and cervical cancers.
 
-Again, the solution is finding a primary care provider you like who is knowledgeable and sensitive to the needs of the LGBTQ community is what we all need.
+Again, the solution is finding a primary care provider who is knowledgeable and sensitive to your needs. 
 
 Healthcare settings that are welcoming and inclusive can significantly impact the willingness of LGBTQ individuals to seek preventive care and screenings.
 
