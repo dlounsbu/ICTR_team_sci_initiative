@@ -52,7 +52,7 @@ And that lesbians and bisexual women, in particular, have higher smoking rates, 
 
 And what about HPV-Related Cancers? 
 
-We know that certain strains of Human papillomavirus (HPV) are associated with cervical cancers in women and, in men who have sex with men (MSM), anal and throat cancers. 
+We know that certain strains of Human papillomavirus (HPV) are associated with cervical cancers in women and, in men who have sex with men (MSM), with anal and throat cancers. 
 
 The good news is that we have a highly efficacious HPV vaccination, which is recommeded for all LGBTQ people, especially for our LGBTQ youths and MSM up to the age of 26.
 
