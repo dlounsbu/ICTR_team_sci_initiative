@@ -62,11 +62,15 @@ Breast and cervical cancer: We know that LGBTQ women may avoid gynecologic exams
 
 Again, the solution is finding a primary care provider who is knowledgeable and sensitive to your needs. 
 
-Healthcare settings that are welcoming and inclusive can significantly impact the willingness of LGBTQ individuals to seek preventive care and screenings.
+And this is what we working for:
+
+Making sure that healthcare settings are welcoming and inclusive, as studies show that clinics that are more welcoming and inclusive truly impact the willingness of LGBTQ individuals to seek preventive care and screenings.
 
 This is where I want to mention DISRUPT. 
 
-DISRUPT is an on-going project that is changing the way cancer research is supported at major New York medical academic centers, including Montefiore Medical Center, Mt. Sinai, and Columbia University, with a focus on Black and Latinx communities in the Bronx, Washington Heights, East Harlem and Central Harlem. 
+DISRUPT is an on-going project that is changing the way cancer research is supported at major New York medical academic centers, including Montefiore Medical Center, Mt. Sinai, and Columbia University. 
+
+DISRUPT's focus is on Black and Latinx communities in the Bronx, Washington Heights, East Harlem and Central Harlem. 
 
 DISRUPT stands for DIVERSITY & INCLUSION IN RESEARCH UNDERPINNING PREVENTION & THERAPY TRIALS. 
 
