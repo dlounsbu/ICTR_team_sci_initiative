@@ -46,7 +46,7 @@ And, of course, we need to create supportive and non-judgmental environments whe
 
 Here are some facts I want to share with you about cancer risk for LGBTQ persons:
 
-Did you know that studies show that too many of smoke and vape in the LGBTQ community? 
+Did you know that studies show that too many of us smoke and vape in the LGBTQ community? 
 
 And that lesbians and bisexual women, in particular, have higher smoking rates, increasing their risk for lung cancer and other cancers, including breast cancer?
 
