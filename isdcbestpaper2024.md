@@ -23,7 +23,7 @@ So, this year, our <b>Best Early Career Health Paper Award</b> goes to Ann Osi o
 
 [Ann, please join me UP HERE NOW]
 
-Ann is currently a <b>Doctoral Candidate in Industrial and Systems Engineering at Virginia Tech.</b>
+Ann is currently a <b>Doctoral Candidate in Industrial and Systems Engineering at Virginia Tech</b.>
 
 Her research focuses on <b>behavioral epidemiology modeling<\b> as a strategy to inform more effective public health decision-making and to improve health outcomes and promote better healthcare policies. 
 
