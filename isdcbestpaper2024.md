@@ -6,7 +6,7 @@ My name is David Lounsbury, and I am <b>Committee Chair for the 2024 Best Early 
 
 This award is organized by the <b>Health Policy Special Interest Group</b> of the System Dynamics Society.
 
-The Awardis given to <b> outstanding system dynamics papers </b> authored by a student or by a recent graduate that focus on <b> health or public health topics. </b>
+The Award is given to <b> outstanding system dynamics papers </b> authored by a student or by a recent graduate that focus on <b> health or public health topics. </b>
 
 The <b> Early Career Health Paper Award</b> was previously sponsored by the Lupina Foundation of Canada, but is now sponsored directly by the Health Policy SIG. 
 
