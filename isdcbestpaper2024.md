@@ -25,9 +25,9 @@ So, this year, our Best Early Career Health Paper Award goes to Ann Osi of Virgi
 
 Ann is currently a <b>Doctoral Candidate in Industrial and Systems Engineering at Virginia Tech.</b>
 
-Her research focuses on behavioral epidemiology modeling as a strategy to inform more effective public health decision-making and to improve health outcomes and promote better healthcare policies. 
+Her research focuses on <b>behavioral epidemiology modeling<\b> as a strategy to inform more effective public health decision-making and to improve health outcomes and promote better healthcare policies. 
 
-Notably, Ann was also last year’s recipient of the Dana Meadows Award. 
+Notably, Ann was also last year’s recipient of the <b>Dana Meadows Award.</b>
 
 We congratulate Ann and her primary mentor, Dr. Navid Ghaf-FAR-ZA-DE-GAN for ALL for their success and thank them for their continued contributions to the field.
 
