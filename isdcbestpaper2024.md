@@ -40,8 +40,17 @@ Fatin is currently a postdoctoral researcher at <b>Japan's National Institute of
 
 Fatin received her PhD in <b>Technology Management from Ritsu-mei-KAN University,</b> where she developed excellent skills in System Dynamics, which she has very effectively applied to her healthcare research.
 
-Fatin’s current research focuses on building <b>System Dynamics Models</b> to analyze the health and economic impacts of variuos population health initiatives in Japan. 
+Fatin’s current research focuses on building <b>System Dynamics Models</b> to analyze the health and economic impacts of various population health initiatives in Japan. 
 
 <b>Congratulations</b> to you, Fatin, and to all of your mentors. 
 
+
+
+
+
+
+
+
+
+end
 
