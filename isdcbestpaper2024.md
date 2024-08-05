@@ -38,9 +38,9 @@ And our <b>Honorable Mention</b> goes to Fatin Aminah Binti Hassan for her paper
 
 Fatin is currently a postdoctoral researcher at <b>Japan's National Institute of Health and Nutrition .</b> 
 
-Fatin received her PhD in <b>Technology Management from Rit-su-mei-kan University,</b> where she developed an interest in System Dynamics and applied this method to her healthcare research.
+Fatin received her PhD in <b>Technology Management from Ritsu-mei-KAN University,</b> where she developed excellent skills in System Dynamics, which she has very effectively applied to her healthcare research.
 
-Fatin’s current research focuses on building <b>System Dynamics Models</b> to analyze the health and economic effects of salt consumption reduction among Japanese populations at both national and prefectural levels. 
+Fatin’s current research focuses on building <b>System Dynamics Models</b> to analyze the health and economic impacts of variuos population health initiatives in Japan. 
 
 <b>Congratulations</b> to you, Fatin, and to all of your mentors. 
 
