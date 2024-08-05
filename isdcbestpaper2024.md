@@ -26,7 +26,7 @@ Her research focuses on <b>behavioral epidemiology modeling</b> as a strategy to
 
 Notably, Ann was also last year’s recipient of the <b>Dana Meadows Award.</b>
 
-We congratulate Ann and her primary mentor, Prof Navid, for ALL for their success and thank them for their continued contributions to the field.
+We congratulate Ann and her primary mentor, Prof Navid, for ALL for their success and we thank them for their continued contributions to the field.
 
 And our <b>Honorable Mention</b> goes to Fatin Aminah Binti Hassan for her paper entitled:
 
