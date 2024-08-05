@@ -14,7 +14,7 @@ I want to thank this <b>year’s Committee Members</b> for ALL of their support 
 
 [NEXT SLIDE]
 
-So, this year, our <b>Best Early Career Health Paper Award</b> goes to Ann Osi of Virginia Tech for her paper entitled: 
+So, this year, our <b>Best Early Career Health Paper Award</b> goes to Ann Osigh of Virginia Tech for her paper entitled: 
 
 <b>A Simultaneous Simulation of Human Behavior Dynamics and Epidemic Spread: A Multi-Country Study Amid the COVID-19 Pandemic</b>
 
