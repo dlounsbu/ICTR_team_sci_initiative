@@ -8,7 +8,7 @@ This award is organized by the <b>Health Policy Special Interest Group</b> of th
 
 The <b> Early Career Health Paper Award</b> was previously sponsored by the Lupina Foundation of Canada, but is now sponsored directly by the Health Policy SIG. 
 
-To be eligible, applicants must be matriculated in a graduate research program or have completed their graduate or post-graduate research training within the past 5 years.
+To be eligible, applicants must be matriculated in a graduate research program or must have completed their graduate or post-graduate research training within the past 5 years.
 
 And their papers must also be accepted for presentation at the conference. 
 
