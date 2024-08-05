@@ -19,7 +19,7 @@ I want to thank this year’s Committee Members for ALL of their support and for
 
 So, this year, our Best Early Career Health Paper Award goes to Ann Osi of Virginia Tech for her paper entitled: 
 
-<b>A Simultaneous Simulation of Human Behavior Dynamics and Epidemic Spread: A Multi-Country Study Amidst the COVID-19 Pandemic<\b>
+<b>A Simultaneous Simulation of Human Behavior Dynamics and Epidemic Spread: A Multi-Country Study Amidst the COVID-19 Pandemic</b>
 
 [Ann, please join me UP HERE NOW]
 
