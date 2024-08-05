@@ -28,13 +28,13 @@ Notably, Ann was also last year’s recipient of the <b>Dana Meadows Award.</b>
 
 We congratulate Ann and her primary mentor, Prof Navid, for ALL for their success and thank them for their continued contributions to the field.
 
-And our <b>Honorable Mention</b> goes to Fatin Aminah Binti Hassan of the <b>Japan's National Institute of Technology, </b> for her paper entitled:
+And our <b>Honorable Mention</b> goes to Fatin Aminah Binti Hassan for her paper entitled:
 
 <b>Impacts of Salt Intake Reduction Interventions on Medical and Long-term Care Costs in Japan</b>
 
 [Fatin, please come up with us, now, too]
 
-Fatin is currently a postdoctoral researcher at the <b>National Institute of Health and Nutrition.</b> 
+Fatin is currently a postdoctoral researcher at <b>Japan's National Institute of Health and Nutrition .</b> 
 
 Fatin received her PhD in <b>Technology Management from Rit-su-mei-kan University,</b> where she developed an interest in System Dynamics and applied this method to her healthcare research.
 
