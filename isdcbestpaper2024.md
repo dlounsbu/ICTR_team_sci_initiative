@@ -8,7 +8,7 @@ This award is organized by the <b>Health Policy Special Interest Group</b> of th
 
 The <b> Early Career Health Paper Award</b> was previously sponsored by the Lupina Foundation of Canada, but is now sponsored directly by the Health Policy SIG. 
 
-This year, through contributions made by the Early Career Committee Members themselves, we are offering a <b>$25-hundred dollar cash prize to the winner</b> and a <b>$500 cash prize for honorable mention</b> to first runner up. 
+This year, through contributions made by Committee Members themselves, we are offering a <b>$25-hundred dollar cash prize to the winner</b> and a <b>$500 cash prize for honorable mention</b> to first runner up. 
 
 I want to thank this <b>year’s Committee Members</b> for ALL of their support and for their expert review of all submitted papers. 
 
