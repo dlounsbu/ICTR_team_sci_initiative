@@ -2,7 +2,7 @@
 
 Good afternoon and greetings to all. 
 
-My name is David Lounsbury and I am <b>Committee Chair for the 2024 Best Early Career Health Paper Award</b>. 
+My name is David Lounsbury, and I am <b>Committee Chair for the 2024 Best Early Career Health Paper Award</b>. 
 
 This award is organized by the <b>Health Policy Special Interest Group</b> of the System Dynamics Society and is given to <b> outstanding system dynamics papers </b> authored by a student or by recent graduates that focus on <b> health or public health topics. </b>
 
