@@ -18,7 +18,7 @@ So we decided to split the cash prize three ways, <b>with each winner receiving 
 
 [NEXT SLIDE]
 
-AnD, this year, our <b>Best Early Career Health Paper Award</b> goes to: 
+And, this year, our <b>Best Early Career Health Paper Award</b> goes to: 
 
 <b>Jeroen Uleman</b> (University of Copenhagen) 
 
@@ -46,7 +46,7 @@ She is a global health specialist with an MPH from the Harvard School of Public 
 
 Her paper describes how she partnered with the Center for Outbreak Preparedness to assess cost-effectiveness of implementing <b>next-generation sequencing techniques for pathogen surveillance</b> at the population level.
 
-<b>Congratulations</b> to each of you, to your mentors, and to your co-atuhors!
+<b>Congratulations</b> to each of you, to your mentors, and to your co-authors!
 
 
 d
