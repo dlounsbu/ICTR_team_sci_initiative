@@ -20,12 +20,11 @@ So we decided to split the cash prize three ways, <b>with each winner receiving 
 
 So, this year, our <b>Best Early Career Health Paper Award</b> goes to: 
 
-Jeroen Uleman (University of Copenhagen) 
+<b>Jeroen Uleman</b> (University of Copenhagen) 
 
-Fatima Sadjadpour (Virginia Tech), and
+<b>Fatima Sadjadpour</b> (Virginia Tech), and
 
-Marya Getchell (Duke-NUS Medical School).
-
+<b>Marya Getchell</b> (Duke-NUS Medical School).
 
 We congratulate Ann and her primary mentor, Prof Navid, for ALL for their success and we thank them for their continued contributions to the field.
 
