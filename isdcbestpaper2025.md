@@ -14,7 +14,7 @@ I want to thank the <b>Committee Members</b> for their support and for their exp
 
 Now, this year the Committee could not agree on a single winning paper. In fact, there were three papers that stood out as worthy of full recognition. 
  
-So the cash prize is to be split three-ways, <b>with each winner receiving $1,000.</b>
+So we decided to split the cash prize thee ways, <b>with each winner receiving $1,000.</b>
 
 [NEXT SLIDE]
 
