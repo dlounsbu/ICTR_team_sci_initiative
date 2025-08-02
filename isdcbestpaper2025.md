@@ -43,7 +43,7 @@ Her paper integrates Machine Learning and participatory system dynamics modeling
 
 [NEXT SLIDE]
 
-Maya Getchell is a PhD candidate in Health Services and Systems Research at Duke-NUS in Singapore. 
+<b>Maya Getchell </b>is a PhD candidate in Health Services and Systems Research at Duke-NUS in Singapore. 
 
 She is a global health specialist with an MPH from the Harvard School of Public Health.
 
