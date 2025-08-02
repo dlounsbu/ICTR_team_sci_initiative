@@ -34,7 +34,7 @@ His paper is an extension of his PhD thesis and features development and applica
 
 [NEXT SLIDE]
 
-<b> Fatima Sadjadpour</b>  is a PhD Candidate in Industrial & Systems Engineering at Virginia Tech.
+<b> Fatima Sadjadpour</b>  is a PhD Candidate in Industrial & Systems Engineering at Virginia Tech with a Master's degree in Data Science and Informatics. 
 
 Her paper integrates Machine Learning and participatory system dynamics modeling in a novel way. 
 
