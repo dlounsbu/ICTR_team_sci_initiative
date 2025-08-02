@@ -26,8 +26,6 @@ So, this year, our <b>Best Early Career Health Paper Award</b> goes to:
 
 <b>Marya Getchell</b> (Duke-NUS Medical School).
 
-We congratulate Ann and her primary mentor, Prof Navid, for ALL for their success and we thank them for their continued contributions to the field.
-
 [NEXT SLIDE]
 
 <b>Jeroen Uleman </b> is a computational scientist and epidemiologist who completed his PhD at the U of Copenhagen in 2023. 
@@ -48,7 +46,7 @@ She is a global health specialist with an MPH from the Harvard School of Public 
 
 Her paper describes how she partnered with the Center for Outbreak Preparedness to assess cost-effectiveness of implementing <b>next-generation sequencing techniques for pathogen surveillance</b> at the population level.
 
-<b>Congratulations</b> to you, Fatin, and to all of your mentors. 
+<b>Congratulations</b> to each of you, your mentors, and to your co-atuhors. 
 
 
 d
