@@ -18,7 +18,7 @@ So we decided to split the cash prize three ways, <b>with each winner receiving 
 
 [NEXT SLIDE]
 
-So, this year, our <b>Best Early Career Health Paper Award</b> goes to: 
+AnD, this year, our <b>Best Early Career Health Paper Award</b> goes to: 
 
 <b>Jeroen Uleman</b> (University of Copenhagen) 
 
