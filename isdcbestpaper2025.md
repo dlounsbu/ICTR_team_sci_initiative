@@ -4,9 +4,7 @@ Good afternoon and greetings to all.
 
 My name is David Lounsbury, and I am <b>Committee Chair for the 2025 Best Early Career Health Paper Award</b>. 
 
-This award is organized by the <b>Health Policy Special Interest Group</b> of the System Dynamics Society.
-
-The Award is given to <b> outstanding system dynamics papers </b> authored by students or recent graduates focused on <b> health or public health topics </b>
+This award is organized by the <b>Health Policy Special Interest Group</b> of the System Dynamics Society and given to <b> outstanding system dynamics papers </b> authored by students or recent graduates focused on <b> health or public health topics </b>
 
 The <b> Early Career Health Paper Award</b> is sponsored by the Health Policy Special Interest Group. 
 
