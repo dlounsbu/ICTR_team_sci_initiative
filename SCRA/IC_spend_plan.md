@@ -38,9 +38,9 @@ Leverage endowment income to **attract external funding**.
 A diversified investment structure can enhance returns while managing risk.
 
 Three components: 
-**Core Endowment** | Long-term growth and capital preservation | 
-**Income Pool** | To provide for planned expenses and to generate income 
-**Opportunity Pool** | Supports short-term projects or for piloting innovative development strategies 
+- **Core Endowment** Long-term growth and capital preservation  
+- **Income Pool** To provide for planned expenses and to generate income 
+- **Opportunity Pool** Supports short-term projects or for piloting innovative development strategies 
 
 This structure allows special projects, like proposed SCRA Strategic Plan, to be funded from the **Opportunity Pool** without disturbing the long-term investment base.
 
